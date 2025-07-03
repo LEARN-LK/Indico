@@ -15,7 +15,6 @@ It is ideal for institutions looking for a centralized system to streamline and 
 
 #  Indico Conference Module – Description & Key Features
 
----
 ##  What is a Conference in Indico?
 
 In **Indico**, a **Conference** is a complex, multi-day event composed of **sessions**, **talks (contributions)**, and **breaks**, with tools for managing:
