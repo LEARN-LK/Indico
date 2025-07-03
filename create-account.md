@@ -22,7 +22,7 @@
    Example: [https://indico.learn.ac.lk](https://events.learn.ac.lk)
 
 2. Click **Login** (top-right)
-   <div style="width: 150px"><img src="https://github.com/LEARN-LK/Indico/blob/main/img/sso-login-01.png"</div>
+  <img src="https://github.com/LEARN-LK/Indico/blob/main/img/sso-login-01.png" width="630">
 
 4. Select **Login using your institution**
 
