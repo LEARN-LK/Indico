@@ -77,11 +77,10 @@
 
 ##  Quick Comparison
 
-| Feature                  | Shibboleth Login          | Manual Registration                  |
-| ------------------------ | ------------------------- | ------------------------------------ |
-| 🔐 Secure SSO Login      | ✅ Yes (via EduID)         | ❌ No                                 |
-| 🏫 Uses University Email | ✅ Yes                     | ✅ Optional                           |
-| 🛠 Needs Admin Approval  | ❌ No                      | ⚠️ Maybe (if auto-register disabled) |
-| 🔁 Login Method          | Institutional credentials | Username & password                  |
-
+| Feature                  | Shibboleth Login          | Manual Registration              |
+| ------------------------ | ------------------------- | -------------------------------  |
+| Secure SSO Login         | Yes (via EduID)           | No                               |
+| Uses University Email    | Yes                       | Optional                         |
+| Needs Admin Approval     | No                        | Maybe (if auto-register disabled)|
+| Login Method             | Institutional credentials | Username & password              |
 ---
