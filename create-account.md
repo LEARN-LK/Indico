@@ -22,23 +22,24 @@
    Example: [https://indico.learn.ac.lk](https://events.learn.ac.lk)
 
 2. Click **Login** (top-right)
+   <div style="width: 150px"><img src="https://github.com/LEARN-LK/Indico/blob/main/img/sso-login-01.png"</div>
 
-3. Select **Login using your institution**
+4. Select **Login using your institution**
 
    > You will be redirected to: `https://idp.learn.ac.lk`
 
-4. Select your university from the dropdown (if prompted)
+5. Select your university from the dropdown (if prompted)
 
-5. Login with your **institutional email/password** (EduID)
+6. Login with your **institutional email/password** (EduID)
 
-6. If this is your first time:
+7. If this is your first time:
 
    * You’ll be redirected back to Indico
    * Click **“Create new Indico profile”**
    * Your name and email will be filled automatically
    * Fill in any missing info (e.g., affiliation)
 
-7. Click **Create Profile** 
+8. Click **Create Profile** 
 
 > From now on, you will log in with your university account — no password needed for Indico itself.
 
