@@ -1,24 +1,32 @@
 
-## What is Indico?
-Indico is an open-source event management system designed primarily for academic, scientific, and research communities. It allows users to easily organize and manage conferences, workshops, meetings, and lectures — all in one platform. Developed by CERN, Indico is widely used by universities, research institutions, and international organizations.
+#  Step 1: What is Indico? & Key Features
 
-It supports everything from simple internal meetings to large-scale international conferences, offering end-to-end solutions from event creation to registration, abstract review, and publishing.
+##  What is Indico?
 
-Sure! Here's a **shortened version** of the **key features of Indico**:
+**Indico** is an open-source event and conference management platform developed by [CERN](https://cern.ch). It is designed to help academic, research, and educational institutions manage:
+
+* Conferences
+* Workshops
+* Seminars
+* Lectures
+* Committee meetings
+
+Indico handles everything from **event creation** and **abstract submission** to **registration**, **scheduling**, **payment processing**, and **certification** — all from a single web-based interface.
+
+It is ideal for institutions looking for a centralized system to streamline and professionalize event workflows.
+
+
+## Key Features of Indico
+   * **Event Management** - Create and manage lectures, meetings, or complex multi-day conferences
+   * **Registration Forms** - Custom participant forms with deadlines, capacity limits, and payment types
+   * **Abstract Handling** - Collect and review abstracts/papers with reviewing and decision workflows
+   * **Material Upload**  - Attach presentations, videos, and documents to sessions or contributions
+   * **Access Control**  - Role-based permissions (managers, reviewers, speakers, participants)
+   * **Email Notifications** - Send updates and reminders using built-in email tools
+   * **Payment Integration**  - Optional Stripe, PayPal, or offline payment support
+   * **Certificate Issuance** - Generate and send attendance or speaker certificates (via plugin)
+   * **Reports & Exporting**  - Export registration lists, abstracts, schedules, and participant data
+   * **Event Cloning**      - Duplicate past events to reuse setup and structure                          
 
 ---
 
-## ⭐ Key Features of Indico
-
-* **Event Management**: Create and manage conferences, workshops, meetings.
-* **Timetable Builder**: Drag-and-drop scheduling of sessions and talks.
-* **Registration System**: Custom forms, approvals, email notifications.
-* **Abstract Submission**: Collect, review, and manage abstracts/papers.
-* **Document Sharing**: Upload slides, papers, videos for sessions.
-* **Access Control**: Set permissions for users, groups, or institutions.
-* **Email & Announcements**: Notify participants with custom emails.
-* **Certificate Generation**: Create and issue participation certificates.
-* **Statistics & Reports**: Track registrations, submissions, and attendance.
-* **Shibboleth/EduID Support**: Secure login with institutional accounts.
-
----
