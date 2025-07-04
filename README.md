@@ -53,7 +53,7 @@ It is the **most powerful and feature-rich event type** in Indico and is ideal f
   * **Cloning** - Copy previous events to save time and structure                          
   * **Reports & Exporting** - Download Excel/CSV lists for abstracts, registrations, and participants  
 ---
-* [Creating an Indico Account (with/without Shibboleth)]()
+* [Creating an Indico Account (with/without Shibboleth)](https://github.com/LEARN-LK/Indico/blob/main/create-account.md)
 * 
 
 
