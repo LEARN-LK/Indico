@@ -18,14 +18,18 @@ Follow the steps below to complete your conference setup from start to finish.
 ###  A. Create a Conference
 
 1. Go to your dashboard: `https://indico.learn.ac.lk`
-2. Click **“Create event”** → Choose **“Conference”**
-3. Fill in the basic details:
+2. Click **“Create event” [1]** → Choose **“Conference” [2]**
+ <img src="https://github.com/LEARN-LK/Indico/blob/main/img/create-conference-01.png" width="430">
+   
+3. Fill in the basic details **[3]**:
 
    * **Title**: *National Research Conference 2025*
    * **Start/End Dates**: *August 20–22, 2025*
    * **Location**: *University of Colombo*
    * **Timezone**: `Asia/Colombo`
-4. Click **Create**
+4. Click **Create Event [4]**
+
+    <img src="https://github.com/LEARN-LK/Indico/blob/main/img/create-conference-02.png" width="430">
 
 ---
 
