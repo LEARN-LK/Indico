@@ -29,13 +29,27 @@ Follow the steps below to complete your conference setup from start to finish.
    * **Timezone**: `Asia/Colombo`
 4. Click **Create Event [4]**
 
-    <img src="https://github.com/LEARN-LK/Indico/blob/main/img/create-conference-02.png" width="430">
+  <img src="https://github.com/LEARN-LK/Indico/blob/main/img/create-conference-02.png" width="430">
 
 ---
 
 ###  B. Configure Conference Basics
 
-* Go to the **Management Area**
+* Click on your name or profile icon at the top-right corner
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/conference-basic-01.png" width="430">
+  
+* Select **“My Profile [1]”** from the dropdown
+* Under “your profile name”, find and click on the **event name [2]**
+  Example: “National Research Conference 2025”
+
+    
+* On the conference page, click the ✏️ pencil icon (or Management button) to access the Management Area
+
+  <img src="https://github.com/LEARN-LK/Indico/blob/main/img/conference-basic-02.png" width="530">
+
+  <img src="https://github.com/LEARN-LK/Indico/blob/main/img/conference-basic-03.png" width="330">
+
 * Under **Overview**:
 
   * Add a **banner/logo**
