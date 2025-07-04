@@ -12,7 +12,7 @@
 
 ---
 
-##  Option A: Create an Account with Shibboleth (EduID)
+<h2 style="color: #0404c4;">Option A: Create an Account with Shibboleth (EduID)</h2>
 
 > Recommended for users from Sri Lankan universities connected to LEARN’s federated identity system.
 
