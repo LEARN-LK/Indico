@@ -40,9 +40,36 @@ Follow the steps below to complete your conference setup from start to finish.
 
   * Add a **banner/logo**
   * Set **description** of the event
-  * Choose **event visibility** (Public or Private)
+    - You can use the following dummy data or add your own as you wish
+      
+| Field                    | Example Entry                                           |
+| ------------------------ | ------------------------------------------------------- |
+| **Title**                | National Research Conference 2025                       |
+| **Description**          | A national platform to showcase university-led research |
+| **Short URL**            | `nrc2025`                                               |
+| **Date**                 | July 24–29, 2025                                        |
+| **Time**                 | 8:30 AM – 3:30 PM                                       |
+| **Timezone**             | Asia/Colombo                                            |
+| **Venue**                | University of Colombo                                   |
+| **Chairpersons**         | Dr. Nadeesha P, Prof. Ruwan A             |
+| **Contact Title**        | Conference Coordinator                                  |
+| **Contact Email**        | [nrc2025@learn.ac.lk](mailto:nrc2025@learn.ac.lk)       |
+| **Phone**                | +94 11 2345678                                          |
+| **Keywords**             | research, NRC 2025, academia, Sri Lanka                 |
+| **Language**             | English                                                 |
+| **Additional Languages** | Sinhala, Tamil                                          |
+| **Map URL** (optional)   | Link to Google Maps                                     |
+| **Additional Info**      | Please arrive 30 minutes early for on-site registration |
+
 
 ---
+
+     
+  * Choose **event visibility** (Public or Private)
+
+
+
+
 
 ###  C. Add Organizers & Set Permissions
 
