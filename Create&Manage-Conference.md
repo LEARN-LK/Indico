@@ -6,7 +6,7 @@ If you are an **authorized user** (e.g., university staff or organizer), you can
 
 ###  A. Create a Conference
 
-1. Go to your dashboard: `https://indico.learn.ac.lk`
+1. Go to your dashboard: `https://events.learn.ac.lk`
 2. Click **“Create event”** → Choose **“Conference”**
 3. Fill in the basic details:
 
