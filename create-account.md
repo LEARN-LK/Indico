@@ -63,7 +63,7 @@
 ###  Step-by-Step:
 
 1. Visit the Indico portal
-   e.g., [https://indico.learn.ac.lk](https://indico.learn.ac.lk)
+   e.g., [https://indico.learn.ac.lk](https://events.learn.ac.lk)
 
 2. Click **Login**
 
