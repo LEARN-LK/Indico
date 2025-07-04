@@ -54,7 +54,7 @@ It is the **most powerful and feature-rich event type** in Indico and is ideal f
   * **Reports & Exporting** - Download Excel/CSV lists for abstracts, registrations, and participants  
 ---
 * [Creating an Indico Account (with/without Shibboleth)](https://github.com/LEARN-LK/Indico/blob/main/create-account.md)
-* [How to Create and Manage a Conference in Indico]()
+* [How to Create and Manage a Conference in Indico](https://github.com/LEARN-LK/Indico/blob/main/Create%26Manage-Conference.md)
 
 
 
