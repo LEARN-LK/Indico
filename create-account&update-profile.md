@@ -157,18 +157,31 @@ Keeping your Indico profile updated ensures accurate participant records, certif
 1. **Login** to your Indico account
    → Visit: `https://indico.learn.ac.lk` and sign in
 
-2. **Click your name** at the top-right corner
+2. **Click your name [1]** at the top-right corner
 
-3. From the dropdown menu, select **“My Profile”**
+3. From the dropdown menu, select **“My Profile [2]”**
 
-4. In the profile page, update the following fields as needed:
+    <img src="https://github.com/LEARN-LK/Indico/blob/main/img/update-profile-01.png" width="430">
+  
+
+4. In the profile page click setting **[3]** > update the following fields as needed **[4]**:
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/update-profile-02.png" width="430">
 
    *  **Full Name**
    *  **Affiliation** (e.g., University or Organization)
    *  **Phone Number**
-   *  **Language and Timezone** (use `Asia/Colombo`)
-   *  **Profile Picture** (optional)
 
+ <img src="https://github.com/LEARN-LK/Indico/blob/main/img/update-profile-03.png" width="430">
+
+  *  **Profile Picture [5,6]** (optional)
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/update-profile-04.png" width="430">
+
+   *  **Language and Timezone [7]** (use `Asia/Colombo`)
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/update-profile-05.png" width="430">
+
+     
 5. Click **“Save Changes”** at the bottom of the form
 
 ---
