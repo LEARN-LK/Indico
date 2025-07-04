@@ -1,18 +1,29 @@
 #  How to Create and Manage a Conference in Indico
 
-If you are an **authorized user** (e.g., university staff or organizer), you can create and fully manage conferences on Indico.
+###  **Scenario:**
+
+You are **Dr. ABC**, a lecturer at the University of Colombo, preparing to host the **National Research Conference 2025** on behalf of your faculty.
+
+You’ve been granted permission by the LEARN Indico admin to organize a conference on the platform. Now, you want to:
+
+* Create the event on Indico
+* Set up abstract submissions and registration
+* Assign speakers and sessions
+* Manage participant interactions
+
+Follow the steps below to complete your conference setup from start to finish.
 
 ---
 
 ###  A. Create a Conference
 
-1. Go to your dashboard: `https://events.learn.ac.lk`
+1. Go to your dashboard: `https://indico.learn.ac.lk`
 2. Click **“Create event”** → Choose **“Conference”**
 3. Fill in the basic details:
 
-   * **Title**: e.g., *National Research Conference 2025*
-   * **Start/End Dates**: e.g., *August 20–22, 2025*
-   * **Location**: e.g., *University of Colombo*
+   * **Title**: *National Research Conference 2025*
+   * **Start/End Dates**: *August 20–22, 2025*
+   * **Location**: *University of Colombo*
    * **Timezone**: `Asia/Colombo`
 4. Click **Create**
 
@@ -24,8 +35,8 @@ If you are an **authorized user** (e.g., university staff or organizer), you can
 * Under **Overview**:
 
   * Add a **banner/logo**
-  * Set **description**
-  * Choose **event visibility** (Public/Private)
+  * Set **description** of the event
+  * Choose **event visibility** (Public or Private)
 
 ---
 
@@ -34,34 +45,36 @@ If you are an **authorized user** (e.g., university staff or organizer), you can
 * Go to the **Protection** tab
 * Add users as:
 
-  * **Manager**: Full access
-  * **Coordinator**: Helps organize
-  * **Speaker**: Delivers sessions
-  * **Viewer**: Can view only
+  * **Manager**: Full control over the conference
+  * **Coordinator**: Helps with managing sessions and logistics
+  * **Speaker**: Presenters or lecturers during sessions
+  * **Viewer**: Read-only access for attendees or reviewers
 
 ---
 
 ###  D. Build the Timetable
 
 1. Go to **Timetable**
-2. Click **“Add new session block”** (e.g., “Day 1 – Morning”)
+2. Click **“Add new session block”**
+   Example: “Day 1 – Morning Session”
 3. Add:
 
-   * **Contributions** (talks, paper presentations)
+   * **Contributions** (e.g., “Keynote Address”, “Research Presentations”)
    * **Breaks**, **Lunch sessions**, etc.
-4. Assign **speakers** and upload **slides** or materials
+4. Assign **speakers** and upload **slides** or other session materials
 
 ---
 
 ###  E. Enable Call for Abstracts
 
 1. Go to **Call for Abstracts** → Click **Enable**
-2. Set up:
+2. Set:
 
    * **Submission period**
-   * **Tracks/topics** (e.g., Science, Technology, Humanities)
-   * **Submission format** (text, file upload)
-3. Add **reviewers** and configure **acceptance rules**
+   * **Tracks or topics** (e.g., Science, Technology, Humanities)
+   * **Abstract format** (text box, file upload)
+3. Add **reviewers** to assess submissions
+4. Define **acceptance criteria**
 
 ---
 
@@ -70,14 +83,14 @@ If you are an **authorized user** (e.g., university staff or organizer), you can
 1. Go to **Registration** → Click **“Create a new form”**
 2. Set:
 
-   * **Registration title**
+   * **Registration title** (e.g., “NRC 2025 Registration”)
    * **Open/Close dates**
-   * **Participant limit** (if any)
-3. Add fields:
+   * **Maximum number of participants**
+3. Add form fields:
 
    * Name, Email, Affiliation
-   * Dietary/Accessibility preferences
    * Presenter status (yes/no)
+   * Dietary or accessibility needs
 4. Save and **Enable the form**
 
 ---
@@ -88,48 +101,60 @@ If you are an **authorized user** (e.g., university staff or organizer), you can
 2. Enable:
 
    * **Offline payments** (e.g., bank deposit)
-   * **Online** via Stripe/PayPal (if configured)
-3. Set pricing rules by participant type
+   * **Online** options like Stripe or PayPal (if configured)
+3. Set **pricing tiers** for students, staff, and external participants
 
 ---
 
 ###  H. Add Rooms & Venues
 
 1. Go to **Rooms**
-2. Add details like:
+2. Add:
 
    * Room name (e.g., “Main Auditorium”)
-   * Capacity
-   * Equipment (Projector, Mic, etc.)
-3. Assign rooms to **sessions in the timetable**
+   * Seating capacity
+   * Available equipment (Projector, Microphones, Wi-Fi)
+3. Assign rooms to session blocks in your **Timetable**
 
 ---
 
 ###  I. Promote the Conference
 
-* Make event **Public** (in Overview settings)
-* Share the link (e.g., `https://indico.learn.ac.lk/event/1`)
-* Allow **calendar export** (.ics)
-* Send **email notifications** to participants
+* Make the event **Public** (if open to external attendees)
+* Share the event link:
+   `https://indico.learn.ac.lk/event/1`
+* Enable:
+
+  * **Calendar export (.ics)**
+  * **Email updates** to attendees
 
 ---
 
 ###  J. Monitor & Manage the Event
 
-* Track:
+* Review:
 
-  * **Registrations** → Export to Excel
-  * **Abstract submissions** → Accept/Reject
-  * **Speaker materials** → View or download
-* Send follow-up emails, reminders
+  * **Registrations** → Export participant list to Excel
+  * **Abstract status** → Accept or reject submissions
+  * **Speaker materials** → Slides, papers, and media uploads
+* Send:
+
+  * Confirmation emails
+  * Session reminders
 
 ---
 
 ###  K. End and Archive the Conference
 
-* Close **registration** and **submissions**
-* Upload **presentation materials**, videos
-* Use plugins (if available) to generate **certificates**
-* Change event visibility to **archive mode**
+* Close:
+
+  * **Abstract submission**
+  * **Registration**
+* Upload final materials to **Materials** tab
+* Generate and distribute:
+
+  * **Certificates** (if plugin enabled)
+  * **Feedback forms**
+* Change visibility to **Archived**
 
 ---
