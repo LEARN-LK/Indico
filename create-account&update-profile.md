@@ -142,3 +142,42 @@ This sends a confirmation email to the address you provided.
 | Needs Admin Approval     | No                        | Maybe (if auto-register disabled)|
 | Login Method             | Institutional credentials | Username & password              |
 ---
+
+
+
+
+#  Step 5: How to Update Your Indico Profile
+
+Keeping your Indico profile updated ensures accurate participant records, certificates, and communication.
+
+---
+
+###  Step-by-Step Guide
+
+1. **Login** to your Indico account
+   → Visit: `https://indico.learn.ac.lk` and sign in
+
+2. **Click your name** at the top-right corner
+
+3. From the dropdown menu, select **“My Profile”**
+
+4. In the profile page, update the following fields as needed:
+
+   *  **Full Name**
+   *  **Affiliation** (e.g., University or Organization)
+   *  **Phone Number**
+   *  **Language and Timezone** (use `Asia/Colombo`)
+   *  **Profile Picture** (optional)
+
+5. Click **“Save Changes”** at the bottom of the form
+
+---
+
+###  Why It’s Important
+
+*  Accurate details appear on certificates and badges
+*  Ensures you receive event updates and notifications
+*  Correct timezone settings match the event schedule to your local time
+
+---
+
