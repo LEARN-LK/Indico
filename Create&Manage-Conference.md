@@ -62,14 +62,10 @@ Follow the steps below to complete your conference setup from start to finish.
 | **Additional Info**      | Please arrive 30 minutes early for on-site registration |
 
 
+ * Choose **event visibility** (Public or Private)
 ---
 
      
-  * Choose **event visibility** (Public or Private)
-
-
-
-
 
 ###  C. Add Organizers & Set Permissions
 
