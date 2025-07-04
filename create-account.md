@@ -62,30 +62,76 @@
 
 ###  Step-by-Step:
 
-1. Visit the Indico portal
-   e.g., [https://indico.learn.ac.lk](https://events.learn.ac.lk)
-
-2. Click **Login**
-
-3. Click **Create a new account** (below the login form)
-
-4. Fill in the registration form:
-
-   * First Name / Last Name
-   * Email address
-   * Username
-   * Password
-   * Affiliation (university/institute)
-
-5. Click **Register**
-
-6. Check your inbox for a **confirmation email**
-
-7. Click the activation link to verify your email
-
- Now you can log in using your username and password.
+##  **How to Create an Indico Account (Standard Email Registration)**
 
 ---
+
+###  **Step 1: Go to the Login Page**
+
+* Open your browser and navigate to your institution's Indico login page.
+* Below the login form, click on:
+
+  **➡ *"If you do not have an Indico account yet, you can create one here."***
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/create-acc-00.png" width="430">
+
+---
+
+###  **Step 2: Start Profile Creation**
+
+* You will be redirected to a page to begin the registration.
+* Enter your **email address [1]**.
+* Complete the **CAPTCHA [2]** (if shown).
+* Then click on:
+
+  <img src="https://github.com/LEARN-LK/Indico/blob/main/img/create-acc-01.png" width="430">
+  <img src="https://github.com/LEARN-LK/Indico/blob/main/img/create-acc-02.png" width="430">
+
+  **“Send me a verification email” [3]**
+
+This sends a confirmation email to the address you provided.
+
+---
+
+###  **Step 3: Verify Your Email**
+
+* Check your inbox for a message from **Indico**.
+* The email contains a confirmation link 
+* Click the long verification URL to proceed with account creation [5].
+
+  <img src="https://github.com/LEARN-LK/Indico/blob/main/img/create-acc-03.png" width="430">
+
+
+---
+
+### 🔹 **Step 4: Complete Your Indico Profile**
+
+* After clicking the link, you'll be directed to complete your profile:
+
+  * **Email address** (pre-filled)
+  * **First name**
+  * **Last name**
+  * **Affiliation** (e.g., University name)
+  * **Username** (your login name)
+  * **Password**
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/create-acc-04.png" width="430">
+* When done, click:
+
+  **“Create my Indico profile” [6]**
+
+---
+
+###  **Final Confirmation**
+
+* Once the profile is created, you’ll see the message:
+
+  **“You have successfully registered your Indico profile.” [7]**
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/create-acc-05.png" width="430">
+  
+
+* Click on **“your profile”** to review or update personal settings.
+
+
 
 ##  Quick Comparison
 
