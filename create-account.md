@@ -19,7 +19,7 @@
 ###  Step-by-Step:
 
 1. **Go to the Indico portal**
-   Example: [https://indico.learn.ac.lk](https://events.learn.ac.lk)
+   Example: [https://events.learn.ac.lk](https://events.learn.ac.lk)
 
 2. Click **Login** (top-right)
   <img src="https://github.com/LEARN-LK/Indico/blob/main/img/sso-login-01.png" width="630">
