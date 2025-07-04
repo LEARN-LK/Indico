@@ -146,7 +146,7 @@ This sends a confirmation email to the address you provided.
 
 
 
-#  Step 5: How to Update Your Indico Profile
+#  How to Update Your Indico Profile
 
 Keeping your Indico profile updated ensures accurate participant records, certificates, and communication.
 
