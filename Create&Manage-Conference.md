@@ -79,17 +79,55 @@ Follow the steps below to complete your conference setup from start to finish.
  * Choose **event visibility** (Public or Private)
 ---
 
-     
 
-###  C. Add Organizers & Set Permissions
+##  C. Assign Organizers & Permissions (Beginner-Friendly)
 
-* Go to the **Protection** tab
-* Add users as:
+>  **Important Note:**
+> If you're working on a **brand-new Indico instance** or a fresh conference, the list of users will be **empty** at first. Users **must create their Indico accounts** (via Shibboleth or manual registration) **before you can assign them any permissions**.
 
-  * **Manager**: Full control over the conference
-  * **Coordinator**: Helps with managing sessions and logistics
-  * **Speaker**: Presenters or lecturers during sessions
-  * **Viewer**: Read-only access for attendees or reviewers
+###  Step-by-Step: Assigning Permissions to Users
+
+1. **Ask other organizers or reviewers to first create an account:**
+
+   * Either by:
+
+     *  **Shibboleth login** (institution login via EduID)
+     *  **Manual account registration**
+   * Once they log in at least once, their account will exist in the system.
+
+2. **Then go to your event → Management Area → Protection tab**
+
+3. Click **Add** → choose **User**
+
+4. Type the name or email of the newly registered user
+
+   * You will now be able to find and add them
+
+5. Click the **pencil icon ✏️** next to the user’s name to assign specific roles/permissions:
+
+   * Manage Abstracts
+   * Registration
+   * Surveys
+   * Contributions
+   * etc.
+
+6. Click **Save**
+
+---
+
+### Tip for Admins:
+
+You can also **pre-register users** manually in the Indico Admin Panel (if you're a site admin), especially useful for:
+
+* University staff
+* Early invited speakers
+* Key organizers
+
+---
+
+
+
+
 
 ---
 
