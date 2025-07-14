@@ -95,7 +95,7 @@ Follow the steps below to complete your conference setup from start to finish.
      *  **Manual account registration**
    * Once they log in at least once, their account will exist in the system.
 
-2. **Then go to your event [2] → Management Area [3] → Protection tab**
+2. **Then go to your event [2] → Management Area [3] → Protection tab [4]**
 <img src="https://github.com/LEARN-LK/Indico/blob/main/img/conference-basic-01.png" width="430">
 
 <img src="https://github.com/LEARN-LK/Indico/blob/main/img/conference-basic-02.png" width="530">
@@ -105,8 +105,12 @@ Follow the steps below to complete your conference setup from start to finish.
 
 3. Click **Add** → choose **User**
 
+    <img src="https://github.com/LEARN-LK/Indico/blob/main/img/Protection-02.png" width="40%">
+
 4. Type the name or email of the newly registered user
 
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/Protection-03.png" width="40%">
+  
    * You will now be able to find and add them
 
 5. Click the **pencil icon ✏️** next to the user’s name to assign specific roles/permissions:
@@ -117,7 +121,9 @@ Follow the steps below to complete your conference setup from start to finish.
    * Contributions
    * etc.
 
-7. Click **Save**
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/Protection-04.png" width="40%">
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/Protection-05.png" width="20%">
+6. Click **Save**
 
 ---
 
