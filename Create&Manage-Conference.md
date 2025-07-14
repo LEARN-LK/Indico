@@ -80,7 +80,7 @@ Follow the steps below to complete your conference setup from start to finish.
 ---
 
 
-##  C. Assign Organizers & Permissions (Beginner-Friendly)
+##  C. Assign Organizers & Permissions.
 
 >  **Important Note:**
 > If you're working on a **brand-new Indico instance** or a fresh conference, the list of users will be **empty** at first. Users **must create their Indico accounts** (via Shibboleth or manual registration) **before you can assign them any permissions**.
