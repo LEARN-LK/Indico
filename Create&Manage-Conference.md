@@ -138,21 +138,64 @@ You can also **pre-register users** manually in the Indico Admin Panel (if you'r
 ---
 
 
+##  D. Build the Timetable
 
-
+The **Timetable** is the heart of your Indico conference. It allows you to define and organize the full event structure—sessions, presentations, breaks, and speaker slots.
 
 ---
 
-###  D. Build the Timetable
+###  Step-by-Step: Build the Timetable
 
-1. Go to **Timetable**
-2. Click **“Add new session block”**
-   Example: “Day 1 – Morning Session”
-3. Add:
+1. **Go to your Event** → Click **Management Area**
+2. Navigate to the **Timetable** tab
+3. Click **Add new session block**
 
-   * **Contributions** (e.g., “Keynote Address”, “Research Presentations”)
-   * **Breaks**, **Lunch sessions**, etc.
-4. Assign **speakers** and upload **slides** or other session materials
+   * Enter:
+
+     * **Title**: e.g., “Opening Ceremony”
+     * **Date & Time**: e.g., **July 24, 2025, 08:30 AM**
+     * **Location**: Main Auditorium
+   * Click **Create**
+4. Inside that session block, click **Add contribution**
+
+   * Fill in:
+
+     * **Title**: e.g., “Welcome Speech”
+     * **Speaker**: e.g., Prof. Ruwan Abeysekera
+     * **Duration**: e.g., 30 minutes
+   * Click **Create**
+5. Repeat for all sessions, talks, and panels
+6. Optionally, upload slides or materials for each contribution
+
+---
+
+###  Example: National Research Conference 2025
+
+| **Date**      | **Time**      | **Session Block**       | **Contribution**         | **Speaker**            | **Location**    |
+| ------------- | ------------- | ----------------------- | ------------------------ | ---------------------- | --------------- |
+| July 24, 2025 | 08:30 – 09:30 | Opening Ceremony        | Welcome Speech           | Prof. Ruwan Abeysekera | Main Auditorium |
+| July 24, 2025 | 09:30 – 10:30 | Keynote Session 1       | Future of AI in Research | Dr. Anoma Perera       | Main Auditorium |
+| July 24, 2025 | 11:00 – 13:00 | Parallel Track: Science | 4 Paper Presentations    | Various Authors        | Hall A          |
+| July 24, 2025 | 13:00 – 13:30 | Break                   | Lunch Break              | —                      | Cafeteria       |
+| July 24, 2025 | 13:30 – 15:30 | Parallel Track: Tech    | 5 Paper Presentations    | Various Authors        | Hall B          |
+
+---
+
+###  Materials
+
+* Upload presentations, research papers, or session videos:
+
+  * Go to the contribution → Click **Materials**
+  * Click **Upload files**
+
+---
+
+###  Speaker & Chair Management
+
+* Add multiple speakers if needed
+* Assign **Session Chair** during session creation or editing
+* Indicate time allocation and breaks clearly
+
 
 ---
 
