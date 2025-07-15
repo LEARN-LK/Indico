@@ -217,14 +217,83 @@ The **Timetable** is the heart of your Indico conference. It allows you to defin
 
 ###  E. Enable Call for Abstracts
 
-1. Go to **Call for Abstracts** → Click **Enable**
-2. Set:
+Once you’re inside your event:
 
-   * **Submission period**
-   * **Tracks or topics** (e.g., Science, Technology, Humanities)
-   * **Abstract format** (text box, file upload)
-3. Add **reviewers** to assess submissions
-4. Define **acceptance criteria**
+>  Go to **Management Area** → **Call for Abstracts** → **Click the gear icon ⚙️**
+
+Then you'll see the screen you uploaded. Here's how to configure it:
+
+---
+
+###  **Announcement**
+
+* Add a message here for all potential abstract submitters.
+*  Example:
+
+  ```
+  We welcome abstracts related to Science, Technology, and Humanities for NRC 2025. Please ensure your submission is original and aligns with our tracks.
+  ```
+
+---
+
+###  Submission Options
+
+| Setting                   | Recommendation for NRC 2025                         |
+| ------------------------- | --------------------------------------------------- |
+| **Multiple tracks**       |  ON – Allow choosing from multiple research tracks |
+| **Require tracks**        |  ON – Must pick a track (Science/Tech/Humanities)  |
+| **Require contrib. type** |  OFF (Optional – only enable if you use types)     |
+| **Allow attachments**     |  ON – Allow upload of files (PDF, DOC)             |
+| **Allow speakers**        |  ON – Allow submitters to tag a speaker            |
+| **Require a speaker**     |  ON – Force them to pick at least one speaker      |
+
+---
+
+###  **Allow Editing**
+
+Choose who can edit the abstract after submission:
+
+* Recommended: **All involved people (submitter, authors, speakers)**
+
+---
+
+###  **Contribution Submitters**
+
+Who can submit contributions *after* abstract is accepted:
+
+* Recommended: **Speakers, authors, and co-authors**
+
+---
+
+###  **Authorized Submitters** (Optional)
+
+This allows **specific users** to bypass the regular submission deadline.
+
+ Example:
+
+* Add committee members who need to upload late abstracts
+* Click **Add** → choose User/Group/Event Role
+
+---
+
+###  **Instructions**
+
+This appears right before the submission form.
+
+ Example:
+
+```
+1. Submit your abstract before July 15, 2025.
+2. Use formal academic language and keep it under 300 words.
+3. Upload supporting documents (if required).
+4. Select the appropriate track (Science, Tech, Humanities).
+```
+
+---
+
+###  Final Step
+
+Click **Save** at the bottom once you're done.
 
 ---
 
