@@ -123,7 +123,8 @@ Follow the steps below to complete your conference setup from start to finish.
 
 <img src="https://github.com/LEARN-LK/Indico/blob/main/img/Protection-04.png" width="40%">
 <img src="https://github.com/LEARN-LK/Indico/blob/main/img/Protection-05.png" width="20%">
-6. Click **Save**
+
+6. Click**Save**
 
 ---
 
@@ -163,6 +164,10 @@ The **Timetable** is the heart of your Indico conference. It allows you to defin
      * **Title**: e.g., “Welcome Speech”
      * **Speaker**: e.g., Prof. Ruwan Abeysekera
      * **Duration**: e.g., 30 minutes
+     * Conveners: If not available, you can:
+       - Add Myselfe
+       - Add from Search
+       - Enter Manually
    * Click **Create**
 5. Repeat for all sessions, talks, and panels
 6. Optionally, upload slides or materials for each contribution
