@@ -148,8 +148,12 @@ The **Timetable** is the heart of your Indico conference. It allows you to defin
 ###  Step-by-Step: Build the Timetable
 
 1. **Go to your Event** → Click **Management Area**
-2. Navigate to the **Timetable** tab
-3. Click **Add new session block**
+2. Navigate to the **Timetable  [1]** tab
+
+ <img src="https://github.com/LEARN-LK/Indico/blob/main/img/timetable-1.png" width="230">
+
+   
+3. Click **Add new session block [2]**
 
    * Enter:
 
@@ -157,7 +161,11 @@ The **Timetable** is the heart of your Indico conference. It allows you to defin
      * **Date & Time**: e.g., **July 24, 2025, 08:30 AM**
      * **Location**: Main Auditorium
    * Click **Create**
-4. Inside that session block, click **Add contribution**
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/timetable-2.png" width="530">
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/timetable-addnewsession-3.png" width="530">
+
+4. Inside that session block, click **Add contribution [3]**
 
    * Fill in:
 
@@ -169,6 +177,9 @@ The **Timetable** is the heart of your Indico conference. It allows you to defin
        - Add from Search
        - Enter Manually
    * Click **Create**
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/timetable-addnewsession-4.png" width="530">
+     
 5. Repeat for all sessions, talks, and panels
 6. Optionally, upload slides or materials for each contribution
 
