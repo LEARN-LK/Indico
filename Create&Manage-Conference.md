@@ -317,11 +317,16 @@ Collect participant details, manage attendance, and optionally enable payment.
 
 ### **1. Navigate to Registration Module**
 
-Go to your event → Management Area → **Registration**
+Go to your event → Management Area → **Registration [1]**
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/registration-form-01.png" width="230">
 
 ---
 
-### **2. Click "Create a New Registration Form"**
+### **2. Click "Create a New Registration Form [2]"**
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/registration-form-02.png" width="630">
+
 
 You'll see the screen just like your screenshot.
 
@@ -329,19 +334,23 @@ You'll see the screen just like your screenshot.
 
 | Field                          | Description                               | Example                                      |
 | ------------------------------ | ----------------------------------------- | -------------------------------------------- |
-| **Title**                      | Name of the form                          | NRC 2025 Participant Registration            |
-| **Visibility to participants** | Who can see the participant list          |  Recommended: *Hide all participants*       |
-| **Visibility to everyone**     | Whether non-participants can see the list |  Recommended: *Hide all participants*       |
-| **Visibility duration**        | How long the list is visible              | Leave as default (Permanent or adjust later) |
-| **Retention period**           | How long data is stored                   | Optional (set to 4–12 weeks or indefinite)   |
+| **Title [3]**                      | Name of the form                          | NRC 2025 Participant Registration            |
+| **Visibility to participants [4]** | Who can see the participant list          |  Recommended: *Hide all participants*       |
+| **Visibility to everyone [5]**     | Whether non-participants can see the list |  Recommended: *Hide all participants*       |
+| **Visibility duration [6]**        | How long the list is visible              | Leave as default (Permanent or adjust later) |
+| **Retention period [7]**           | How long data is stored                   | Optional (set to 4–12 weeks or indefinite)   |
 
- Click **Create** to continue.
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/registration-form-03.png" width="630">
+
+ Click **Create [8]** to continue.
 
 ---
 
 ### **3. Design the Form**
 
-Once the form is created, you'll be taken to the **Form Designer**.
+Once the form is created, Then select **Registration Form Configure [9]** settings.
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/registration-form-04.png" width="630">
 
 #### ➕ Add Form Fields:
 
@@ -353,7 +362,7 @@ Once the form is created, you'll be taken to the **Form Designer**.
 * **Dietary/Accessibility Requirements**
 * **Upload Student/Staff ID** *(if needed)*
 
-You can use **Sections** to group fields logically.
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/registration-form-05.png" width="630">
 
 ---
 
