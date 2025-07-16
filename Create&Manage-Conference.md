@@ -304,20 +304,81 @@ Click **Save [8]** at the bottom once you're done.
 
 ---
 
-###  F. Create a Registration Form
 
-1. Go to **Registration** → Click **“Create a new form”**
-2. Set:
+##  Step F: Create a Registration Form
 
-   * **Registration title** (e.g., “NRC 2025 Registration”)
-   * **Open/Close dates**
-   * **Maximum number of participants**
-3. Add form fields:
+###  Purpose:
 
-   * Name, Email, Affiliation
-   * Presenter status (yes/no)
-   * Dietary or accessibility needs
-4. Save and **Enable the form**
+Collect participant details, manage attendance, and optionally enable payment.
+
+---
+
+###  **Step-by-Step Guide**
+
+### **1. Navigate to Registration Module**
+
+Go to your event → Management Area → **Registration**
+
+---
+
+### **2. Click "Create a New Registration Form"**
+
+You'll see the screen just like your screenshot.
+
+#### ⚙️ Initial Settings:
+
+| Field                          | Description                               | Example                                      |
+| ------------------------------ | ----------------------------------------- | -------------------------------------------- |
+| **Title**                      | Name of the form                          | NRC 2025 Participant Registration            |
+| **Visibility to participants** | Who can see the participant list          |  Recommended: *Hide all participants*       |
+| **Visibility to everyone**     | Whether non-participants can see the list |  Recommended: *Hide all participants*       |
+| **Visibility duration**        | How long the list is visible              | Leave as default (Permanent or adjust later) |
+| **Retention period**           | How long data is stored                   | Optional (set to 4–12 weeks or indefinite)   |
+
+ Click **Create** to continue.
+
+---
+
+### **3. Design the Form**
+
+Once the form is created, you'll be taken to the **Form Designer**.
+
+#### ➕ Add Form Fields:
+
+* **Name** *(required)*
+* **Email**
+* **Affiliation / University**
+* **Presenter?** *(Yes/No radio button)*
+* **Mobile Number**
+* **Dietary/Accessibility Requirements**
+* **Upload Student/Staff ID** *(if needed)*
+
+You can use **Sections** to group fields logically.
+
+---
+
+### **4. Set Form Settings**
+
+Click the **Settings tab** in the registration form:
+
+| Option                     | Example Configuration                |
+| -------------------------- | ------------------------------------ |
+| **Registration opens**     | Jul 1, 2025                          |
+| **Registration closes**    | Jul 23, 2025                         |
+| **Max participants**       | 300                                  |
+| **Moderated registration** | Enabled if manual approval is needed |
+
+---
+
+### **5. Enable and Share**
+
+After designing and configuring:
+
+* Click **Enable Registration**
+* Share the registration link with your participants
+
+ Link will be like:
+`https://indico.learn.ac.lk/event/1/registration/1/`
 
 ---
 
