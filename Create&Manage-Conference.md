@@ -368,15 +368,16 @@ Once the form is created, Then select **Registration Form Configure [9]** settin
 
 ### **4. Set Form Settings**
 
-Click the **Settings tab** in the registration form:
+Click the **Start now or schedule opening** in the registration form:
 
 | Option                     | Example Configuration                |
 | -------------------------- | ------------------------------------ |
 | **Registration opens**     | Jul 1, 2025                          |
 | **Registration closes**    | Jul 23, 2025                         |
-| **Max participants**       | 300                                  |
-| **Moderated registration** | Enabled if manual approval is needed |
+<!--| **Max participants**       | 300                                  |
+| **Moderated registration** | Enabled if manual approval is needed | -->
 
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/registration-form-06.png" width="630">
 ---
 
 ### **5. Enable and Share**
