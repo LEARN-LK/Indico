@@ -219,13 +219,20 @@ The **Timetable** is the heart of your Indico conference. It allows you to defin
 
 Once you’re inside your event:
 
->  Go to **Management Area** → **Call for Abstracts** → **Click the gear icon ⚙️**
+>  Go to **Management Area** → **Call for Abstracts [1]** → **Click the gear icon [2] ⚙️**
+
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/abstract-01.png" width="230">
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/abstract-02.png" width="430">
 
 Then you'll see the screen you uploaded. Here's how to configure it:
 
 ---
 
-###  **Announcement**
+###  **Announcement [3]**
+
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/abstract-03.png" width="630">
 
 * Add a message here for all potential abstract submitters.
 *  Example:
@@ -249,7 +256,7 @@ Then you'll see the screen you uploaded. Here's how to configure it:
 
 ---
 
-###  **Allow Editing**
+###  **Allow Editing [4]**
 
 Choose who can edit the abstract after submission:
 
@@ -257,7 +264,7 @@ Choose who can edit the abstract after submission:
 
 ---
 
-###  **Contribution Submitters**
+###  **Contribution Submitters [5]**
 
 Who can submit contributions *after* abstract is accepted:
 
@@ -265,7 +272,7 @@ Who can submit contributions *after* abstract is accepted:
 
 ---
 
-###  **Authorized Submitters** (Optional)
+###  **Authorized Submitters [6]** (Optional)
 
 This allows **specific users** to bypass the regular submission deadline.
 
@@ -276,7 +283,7 @@ This allows **specific users** to bypass the regular submission deadline.
 
 ---
 
-###  **Instructions**
+###  **Instructions [7]**
 
 This appears right before the submission form.
 
@@ -293,7 +300,7 @@ This appears right before the submission form.
 
 ###  Final Step
 
-Click **Save** at the bottom once you're done.
+Click **Save [8]** at the bottom once you're done.
 
 ---
 
