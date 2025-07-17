@@ -405,15 +405,63 @@ After designing and configuring:
 
 ###  H. Add Rooms & Venues
 
-1. Go to **Rooms**
-2. Add:
+###  Purpose:
 
-   * Room name (e.g., “Main Auditorium”)
-   * Seating capacity
-   * Available equipment (Projector, Microphones, Wi-Fi)
-3. Assign rooms to session blocks in your **Timetable**
+Define the physical or virtual locations where your sessions will take place and link them to session blocks in the timetable.
 
 ---
+
+###  **Step-by-Step Guide**
+
+### **1. Navigate to the Rooms Module**
+
+* From the top menu bar of Indico, click on **Rooms** (this may be under **"Administration"** or **"Facilities"**, depending on your role).
+
+---
+
+### **2. Add a New Room**
+
+Click **“Add Room”** or **“+ New Room”**, then fill in the details:
+
+####  Example Room Configuration:
+
+| Field                             | Value                                   |
+| --------------------------------- | --------------------------------------- |
+| **Room Name**                     | Main Auditorium                         |
+| **Site**                          | University of Colombo                   |
+| **Building**                      | Faculty of Science Block A              |
+| **Floor**                         | Ground                                  |
+| **Room Number**                   | 101                                     |
+| **Capacity**                      | 300                                     |
+| **Available Equipment**           |  Projector<br> Microphones<br> Wi-Fi |
+| **Location Map URL** *(optional)* | \[Add Google Maps or image link]        |
+
+Click **Save** once all details are added.
+
+ Repeat this step for all rooms (e.g., Seminar Room A, Online Zoom Room, Workshop Lab 1).
+
+---
+
+### **3. Assign Rooms to Session Blocks in the Timetable**
+
+To associate rooms with your scheduled sessions:
+
+#### Steps:
+
+1. Go to your event → **Timetable**
+2. Click on the **session block** you want to assign a room to
+3. Click the **Edit** (pencil) icon
+4. Choose the room from the **Location** dropdown
+5. Save
+
+#### Example:
+
+* **Session:** Research Presentations – Day 1
+* **Time:** 9:00 AM – 12:00 PM
+* **Room:** Main Auditorium
+
+---
+
 
 ###  I. Promote the Conference
 
