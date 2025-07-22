@@ -427,13 +427,6 @@ Define the physical or virtual locations where your sessions will take place and
 
 4. **Click "Add Room"**
 
-
-
-
-
-
-Thank you for pointing that out. You're right — based on your screenshot, **"Rooms"** is not listed under **“Reports”** in the left-hand sidebar, which means **room management has not yet been enabled** for this Indico instance or user role.
-
 ---
 
 ###  Here's how to handle this situation:
