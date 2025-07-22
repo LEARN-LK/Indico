@@ -415,8 +415,42 @@ Define the physical or virtual locations where your sessions will take place and
 
 ### **1. Navigate to the Rooms Module**
 
-* From the top menu bar of Indico, click on **Rooms** (this may be under **"Administration"** or **"Facilities"**, depending on your role).
+1. **Open your Event**
+   Go to your event (e.g., *National Research Conference 2025*)
 
+2. **Enter Management Area**
+   Click the **gear icon** at the top right of the page to open the **Management Area**
+
+3. **Go to "Rooms" Module**
+   In the left-hand sidebar, scroll down to the **“Reports”** section
+   Click on **“Rooms”**
+
+4. **Click "Add Room"**
+
+
+
+
+
+
+Thank you for pointing that out. You're right — based on your screenshot, **"Rooms"** is not listed under **“Reports”** in the left-hand sidebar, which means **room management has not yet been enabled** for this Indico instance or user role.
+
+---
+
+###  Here's how to handle this situation:
+
+#### 🛠️ Option 1: Use the **Venue/Room fields** in the Event Settings
+
+Even if the **Rooms module** is not visible, you can still **manually add the venue and room name** in the event’s **main Settings section**:
+
+---
+
+###  **Update Venue & Room in Event Settings (Manual Entry)**
+
+1. Go to your Event (e.g., *National Research Conference 2025*)
+2. Click the **gear icon** (Management area)
+3. Under the **Settings** tab:
+4. Click the **pencil icon** next to the **Room** field 
+ 
 ---
 
 ### **2. Add a New Room**
