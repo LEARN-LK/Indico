@@ -13,55 +13,9 @@
 
 ---
 
-<h2> 01 Option A: Create an Account with Shibboleth (EduID)</h2>
-
-> Recommended for users from Sri Lankan universities connected to LEARN’s federated identity system.
-
-###  Step-by-Step:
-
-1. **Go to the Indico portal**
-   Example: [https://events.learn.ac.lk](https://events.learn.ac.lk)
-
-2. Click **Login** (top-right)
-  <img src="https://github.com/LEARN-LK/Indico/blob/main/img/sso-login-01.png" width="630">
-
-4. Select **Login using your institution**
-
-   > You will be redirected to: `https://idp.learn.ac.lk`
-<img src="https://github.com/LEARN-LK/Indico/blob/main/img/sso-login-02.png" width="230">
 
 
-5. Select your university from the dropdown (if prompted)
-
-   <img src="https://github.com/LEARN-LK/Indico/blob/main/img/sso-login-03.png" width="430">
-
-
-6. Login with your **institutional email/password** (EduID)
-<img src="https://github.com/LEARN-LK/Indico/blob/main/img/sso-login-04.png" width="430">
-
-   
-
-7. If this is your first time:
-
-   * You’ll be redirected back to Indico
-   * Click **“Create new Indico profile”**
-   * Your name and email will be filled automatically
-   * Fill in any missing info (e.g., affiliation)
-
-9. Click **Create Profile** 
-
-> From now on, you will log in with your university account — no password needed for Indico itself.
-
-<img src="https://github.com/LEARN-LK/Indico/blob/main/img/sso-login-05.png" width="430">
-
-
-####  Example:
-
-> Dr. Silva from the University of Peradeniya selects "University of Peradeniya" from the institution list and logs in with his university email and password. His Indico account is created automatically.
-
----
-
-## 02. Option B: Manual Account Registration (No Shibboleth)
+## 01. Option B: Manual Account Registration (No Shibboleth)
 
 > Use this if you're an external participant or your university is not in EduID.
 
@@ -116,7 +70,7 @@ This sends a confirmation email to the address you provided.
 ---
 
 
-### 🔹 **Step 4: Complete Your Indico Profile**
+###  **Step 4: Complete Your Indico Profile**
 
 * After clicking the link, you'll be directed to complete your profile:
 
@@ -144,6 +98,54 @@ This sends a confirmation email to the address you provided.
 
 * Click on **“your profile”** to review or update personal settings.
 
+---
+<h2> 02 Option A: Create an Account with Shibboleth (EduID)</h2>
+
+> Recommended for users from Sri Lankan universities connected to LEARN’s federated identity system.
+
+###  Step-by-Step:
+
+1. **Go to the Indico portal**
+   Example: [https://events.learn.ac.lk](https://events.learn.ac.lk)
+
+2. Click **Login** (top-right)
+  <img src="https://github.com/LEARN-LK/Indico/blob/main/img/sso-login-01.png" width="630">
+
+4. Select **Login using your institution**
+
+   > You will be redirected to: `https://idp.learn.ac.lk`
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/sso-login-02.png" width="230">
+
+
+5. Select your university from the dropdown (if prompted)
+
+   <img src="https://github.com/LEARN-LK/Indico/blob/main/img/sso-login-03.png" width="430">
+
+
+6. Login with your **institutional email/password** (EduID)
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/sso-login-04.png" width="430">
+
+   
+
+7. If this is your first time:
+
+   * You’ll be redirected back to Indico
+   * Click **“Create new Indico profile”**
+   * Your name and email will be filled automatically
+   * Fill in any missing info (e.g., affiliation)
+
+9. Click **Create Profile** 
+
+> From now on, you will log in with your university account — no password needed for Indico itself.
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/sso-login-05.png" width="430">
+
+
+####  Example:
+
+> Dr. Silva from the University of Peradeniya selects "University of Peradeniya" from the institution list and logs in with his university email and password. His Indico account is created automatically.
+
+---
 
 
 ##  Quick Comparison
@@ -165,7 +167,7 @@ Keeping your Indico profile updated ensures accurate participant records, certif
 
 ---
 
-### 🧪 Example:
+### Example:
 
 > Ms. Kumari, the conference coordinator from the University of Peradeniya, logs in to Indico via EduID. She updates her profile with her full name, role, and university affiliation. This helps the LEARN admin easily assign her as the manager of the NRC 2025 conference.
 
