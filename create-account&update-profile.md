@@ -10,9 +10,10 @@
 >
 > To do this, you must first **create an Indico account** — either by logging in through your **institution (EduID)** or by **registering manually**.
 
+
 ---
 
-<h2 style="color: #0404c4;">Option A: Create an Account with Shibboleth (EduID)</h2>
+<h2> 01 Option A: Create an Account with Shibboleth (EduID)</h2>
 
 > Recommended for users from Sri Lankan universities connected to LEARN’s federated identity system.
 
@@ -54,15 +55,26 @@
 <img src="https://github.com/LEARN-LK/Indico/blob/main/img/sso-login-05.png" width="430">
 
 
+####  Example:
+
+> Dr. Silva from the University of Peradeniya selects "University of Peradeniya" from the institution list and logs in with his university email and password. His Indico account is created automatically.
+
 ---
 
-##  Option B: Manual Account Registration (No Shibboleth)
+## 02. Option B: Manual Account Registration (No Shibboleth)
 
 > Use this if you're an external participant or your university is not in EduID.
 
+####  Example:
+
+> Prof. Lee, an invited reviewer from outside Sri Lanka, manually registers with his Gmail address and completes email verification. He is then added as an abstract reviewer for NRC 2025.
+
+---
+
+
 ###  Step-by-Step:
 
-##  **How to Create an Indico Account (Standard Email Registration)**
+###  **How to Create an Indico Account (Standard Email Registration)**
 
 ---
 
@@ -102,6 +114,7 @@ This sends a confirmation email to the address you provided.
 
 
 ---
+
 
 ### 🔹 **Step 4: Complete Your Indico Profile**
 
