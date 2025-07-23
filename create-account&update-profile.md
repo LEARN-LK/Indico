@@ -165,6 +165,12 @@ Keeping your Indico profile updated ensures accurate participant records, certif
 
 ---
 
+### 🧪 Example:
+
+> Ms. Kumari, the conference coordinator from the University of Peradeniya, logs in to Indico via EduID. She updates her profile with her full name, role, and university affiliation. This helps the LEARN admin easily assign her as the manager of the NRC 2025 conference.
+
+---
+
 ###  Step-by-Step Guide
 
 1. **Login** to your Indico account
@@ -201,9 +207,13 @@ Keeping your Indico profile updated ensures accurate participant records, certif
 
 ###  Why It’s Important
 
-*  Accurate details appear on certificates and badges
-*  Ensures you receive event updates and notifications
-*  Correct timezone settings match the event schedule to your local time
+* Enables proper identification and role assignment by Indico administrators.
+* Ensures accurate communication for abstract submissions, scheduling, and room bookings.
+* Required before assigning a user as a **Conference Manager** or **Location Manager**.
 
 ---
+
+
+
+
 
