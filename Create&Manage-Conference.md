@@ -1,17 +1,5 @@
-#  How to Create and Manage a Conference in Indico
-
-###  **Scenario:**
-
-You are **Dr. ABC**, a lecturer at the University of Colombo, preparing to host the **National Research Conference 2025** on behalf of your faculty.
-
-You’ve been granted permission by the LEARN Indico admin to organize a conference on the platform. Now, you want to:
-
-* Create the event on Indico
-* Set up abstract submissions and registration
-* Assign speakers and sessions
-* Manage participant interactions
-
-Follow the steps below to complete your conference setup from start to finish.
+#  University Manager Task: Create Conference & Configure Features
+Once the university coordinator (e.g., Dr. Silva) is added as a manager, they can proceed with full conference setup.
 
 ---
 
