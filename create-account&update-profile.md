@@ -15,7 +15,7 @@
 
 
 
-## 01. Option B: Manual Account Registration (No Shibboleth)
+## 01. Option A: Manual Account Registration (No Shibboleth)
 
 > Use this if you're an external participant or your university is not in EduID.
 
@@ -99,7 +99,7 @@ This sends a confirmation email to the address you provided.
 * Click on **“your profile”** to review or update personal settings.
 
 ---
-<h2> 02 Option A: Create an Account with Shibboleth (EduID)</h2>
+<h2> 02 Option B: Create an Account with Shibboleth (EduID)</h2>
 
 > Recommended for users from Sri Lankan universities connected to LEARN’s federated identity system.
 
