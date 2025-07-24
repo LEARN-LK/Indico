@@ -15,13 +15,17 @@ To organize conferences by university or institute, the LEARN Indico admin first
 
 1. Go to the **Indico homepage** (`https://events.learn.ac.lk`)
 2. Click the **pencil icon** 🖉 (top-right corner) to enter the **Category Management area**.
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-01.png" width="730">
+   
 3. Navigate to the relevant parent category (or the homepage for a top-level category).
 4. Click the **➕ Create subcategory** button.
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-06.png" width="730">
+   
 5. Fill in:
 
    * **Title**: e.g., `University of Peradeniya`
    * **Description** (optional): e.g., “Official category for events organized by University of Peradeniya”
-6. Click **Create Category**.
+7. Click **Create Category**.
 
 ---
 
