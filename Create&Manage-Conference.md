@@ -27,6 +27,7 @@ Once the university coordinator (e.g., Dr. Silva) is added as a manager, they ca
 * Click on your name or profile icon at the top-right corner
 
 <img src="https://github.com/LEARN-LK/Indico/blob/main/img/conference-basic-01.png" width="430">
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/conference-basic-01-1.png" width="430">
   
 * Select **“My Profile [1]”** from the dropdown
 * Under “your profile name”, find and click on the **event name [2]**
