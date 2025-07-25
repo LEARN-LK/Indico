@@ -86,11 +86,11 @@ Once the university coordinator (e.g., Dr. Silva) is added as a manager, they ca
      *  **Manual account registration**
    * Once they log in at least once, their account will exist in the system.
 
-2. Go to the homepage → Select the category (e.g., University of Peradeniya) → Click on your conference (e.g., National Research Conference 2025).
+2. Go to the homepage → Select the category **[1]**(e.g., University of Peradeniya **[1.1]**) → Click on your conference (e.g., National Research Conference 2025).
 
    
-<img src="https://github.com/LEARN-LK/Indico/blob/main/img/conference-basic-01.png" width="430">
-
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/conference-basic-01.png" width="530">
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/conference-basic-01-1.png" width="530">
 <img src="https://github.com/LEARN-LK/Indico/blob/main/img/conference-basic-02.png" width="530">
 <img src="https://github.com/LEARN-LK/Indico/blob/main/img/Protection-01.png" width="40%">
 
