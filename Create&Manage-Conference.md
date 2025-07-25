@@ -135,15 +135,6 @@ Repeat this process for any of the following roles as needed:
 
 ---
 
-### Tip for Admins:
-
-You can also **pre-register users** manually in the Indico Admin Panel (if you're a site admin), especially useful for:
-
-* University staff
-* Early invited speakers
-* Key organizers
-
----
 
 
 ##  D. Build the Timetable
