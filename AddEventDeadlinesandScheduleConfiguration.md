@@ -18,7 +18,7 @@ To define submission/review deadlines and build a day-by-day event program with 
 
 * Go to **Management Area** → **Call for Abstracts [1]**
 
-<img src="https://github.com/LEARN-LK/Indico/blob/main/img/Abstract-01.png">
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/Abstract-01.png" width="530">
   
 * Select **Call for Abstracts [2]** Click **Scheduler [3]**
 * Fill in:
@@ -32,8 +32,10 @@ To define submission/review deadlines and build a day-by-day event program with 
 
 ###  **2: Configure Reviewing Period**
 
- Location:
-`Management Area → Abstracts → Reviewing`
+Location:
+Management Area → Abstracts → Reviewing **[1]** Setting **[2]** Date (from-To) **[3]**
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/ReviewingPeriod-01.png" width="530">
 
 🛠️ Set reviewing phase:
 
@@ -45,21 +47,7 @@ Once submissions are closed, reviewers have **9 days** to evaluate them.
 
 ---
 
-###  **Step 3: Set Abstract Notification Date (Optional)**
-
- Still under `Reviewing`
-
-🛠 **Set notification**:
-
-* Date: `2025-07-26`
-* Optional: Enable auto-notification or prepare template emails.
-
- Example:
-Authors will be notified whether their abstract is accepted or rejected on **July 26th**.
-
----
-
-###  **Step 4: Add Abstract Tracks**
+###  **Step 3: Add Abstract Tracks**
 
  Location:
 `Management Area → Abstracts → Tracks`
@@ -74,7 +62,7 @@ Authors will be notified whether their abstract is accepted or rejected on **Jul
 
 ---
 
-###  **Step 5: Add Contribution Types**
+###  **Step 4: Add Contribution Types**
 
  Location:
 `Management Area → Abstracts → Contribution Types`
@@ -88,7 +76,7 @@ Authors will be notified whether their abstract is accepted or rejected on **Jul
 
 ---
 
-###  **Step 6: Add Abstract Reviewers**
+###  **Step 5: Add Abstract Reviewers**
 
  Location:
 `Management Area → Abstracts → Reviewers`
