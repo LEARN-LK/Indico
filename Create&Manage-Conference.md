@@ -14,7 +14,7 @@ Once the university coordinator (e.g., Dr. Silva) is added as a manager, they ca
 
    * **Title**: *National Research Conference 2025*
    * **Start/End Dates**: *August 20–22, 2025*
-   * **Location**: *University of Colombo*
+   * **Location**: *Select predefined location*
    * **Timezone**: `Asia/Colombo`
 5. Click **Create Event [4]**
 
