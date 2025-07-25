@@ -119,6 +119,20 @@ Once the university coordinator (e.g., Dr. Silva) is added as a manager, they ca
 
 6. Click**Save**
 
+Repeat this process for any of the following roles as needed:
+| Role                | Responsibility                                       | Example                                  |
+| ------------------- | ---------------------------------------------------- | ---------------------------------------- |
+| **Abstracts**       | Manage abstract reviewing workflows                  | Assign Prof. Ananda as abstract reviewer |
+| **Contributions**   | Manage conference sessions and speaker contributions | Assign Dr. Madushani                     |
+| **Editing Manager** | Oversee content editing                              | Assign Mr. Kanishka                      |
+| **Paper Manager**   | Manage paper uploads and review                      | Assign Dr. Senevirathne                  |
+| **Registration**    | Handle participant registrations                     | Assign Ms. Priya                         |
+| **Submission**      | Configure submission settings                        | Assign Mr. Gamage                        |
+| **Surveys**         | Create and manage event feedback forms               | Assign Ms. Dilani                        |
+
+
+
+
 ---
 
 ### Tip for Admins:
