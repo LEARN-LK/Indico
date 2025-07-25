@@ -22,17 +22,18 @@ To define submission/review deadlines and build a day-by-day event program with 
 
 ### 1.  Set Abstract Deadlines
 
-> *Only if Abstract Submission is enabled (see Part G).*
+* Go to **Management Area** → **Call for Abstracts [1]**
 
-* Go to **Management Area** → **Abstracts** → **Call for Abstracts**
-* Click **Edit Call for Abstracts**
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/Abstract-01.png">
+  
+* Select **Call for Abstracts [2]** Click **Scheduler [3]**
 * Fill in:
 
-  * **Start date**: When abstract submission begins (e.g., 2025-06-01)
-  * **End date**: When abstract submission closes (e.g., 2025-07-15)
+  * **Start date [4]**: When abstract submission begins (e.g., 2025-06-01)
+  * **End date [5]**: When abstract submission closes (e.g., 2025-07-15)
   * **Announcement text**: Add custom message if needed
 
- Click **Save**
+ Click **Save [6]**
 
 ---
 
