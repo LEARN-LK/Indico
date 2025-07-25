@@ -70,6 +70,7 @@ Once the university coordinator (e.g., Dr. Silva) is added as a manager, they ca
 
 
 ##  C. Assign Organizers & Permissions.
+**Purpose:** To divide responsibilities within a conference, roles like abstract reviewer, editor, registration manager, or survey manager must be assigned under each specific module within the event.
 
 >  **Important Note:**
 > If you're working on a **brand-new Indico instance** or a fresh conference, the list of users will be **empty** at first. Users **must create their Indico accounts** (via Shibboleth or manual registration) **before you can assign them any permissions**.
@@ -84,7 +85,9 @@ Once the university coordinator (e.g., Dr. Silva) is added as a manager, they ca
      *  **Manual account registration**
    * Once they log in at least once, their account will exist in the system.
 
-2. **Then go to your event [2] → Management Area [3] → Protection tab [4]**
+2. Go to the homepage → Select the category (e.g., University of Peradeniya) → Click on your conference (e.g., National Research Conference 2025).
+
+   
 <img src="https://github.com/LEARN-LK/Indico/blob/main/img/conference-basic-01.png" width="430">
 
 <img src="https://github.com/LEARN-LK/Indico/blob/main/img/conference-basic-02.png" width="530">
