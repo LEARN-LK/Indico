@@ -1,4 +1,4 @@
-#  F. Add Event Dates, Deadlines, and Schedule Configuration
+#  F. Configure Event Dates, Deadlines & Abstract Submission
 
 This step focuses on managing important **deadlines** and organizing the **event schedule** (program). Once the conference basics are configured, the university conference manager can define abstract deadlines, session timelines, and publish the schedule for attendees.
 
@@ -31,83 +31,95 @@ To define submission/review deadlines and build a day-by-day event program with 
 
   * **Start date [4]**: When abstract submission begins (e.g., 2025-06-01)
   * **End date [5]**: When abstract submission closes (e.g., 2025-07-15)
-  * **Announcement text**: Add custom message if needed
-
+  
  Click **Save [6]**
 
 ---
 
-### 2.  Configure Review and Notification Deadlines (Optional)
+###  **2: Configure Reviewing Period**
 
-If using review & acceptance:
+ Location:
+`Management Area → Abstracts → Reviewing`
 
-* Go to **Abstracts** → **Reviewing Settings**
-* Set:
+🛠️ Set reviewing phase:
 
-  * **Reviewing start** and **end** dates
-  * **Notification date** for acceptance/rejection
+* **Start Date**: `2025-07-16`
+* **Deadline**: `2025-07-25`
 
- Click **Save**
-
----
-
-### 3.  Build the Event Schedule
-
-* Go to **Management Area** → **Timetable**
-* You’ll see each day listed. To add content:
-
-#### ➕ Add a Session or Break
-
-* Click **Add new** → **Session**
-
-  * Title: “Research Presentations – Day 1”
-  * Date/time: e.g., Sept 10, 2025, 09:00–12:00
-  * Room: Select room (if rooms are configured via Room Booking)
-  * Add description if needed
-
- Click **Add Session**
-
-#### ➕ Add Breaks / Lunch
-
-* Click **Add new** → **Break**
-
-  * Title: “Tea Break”
-  * Time: e.g., 10:30–10:45
-  * Room: optional
-
- Click **Add Break**
+ **Example**:
+Once submissions are closed, reviewers have **9 days** to evaluate them.
 
 ---
 
-### 4.  Add Contributions (Talks or Presentations)
+###  **Step 3: Set Abstract Notification Date (Optional)**
 
-* Still in **Timetable**, click inside the session you created
-* Click **Add new** → **Contribution**
+ Still under `Reviewing`
 
-  * Title: e.g., “Machine Learning in Agriculture”
-  * Speaker(s): Choose registered user or add manually
-  * Duration: e.g., 20 min
-  * Description (optional)
+🛠 **Set notification**:
 
- Click **Add Contribution**
+* Date: `2025-07-26`
+* Optional: Enable auto-notification or prepare template emails.
 
-Repeat for each presentation across days.
+ Example:
+Authors will be notified whether their abstract is accepted or rejected on **July 26th**.
 
 ---
 
-### Example Scenario
+###  **Step 4: Add Abstract Tracks**
 
-For **National Research Conference 2025**:
+ Location:
+`Management Area → Abstracts → Tracks`
 
-| Item               | Value                            |
-| ------------------ | -------------------------------- |
-| Abstract Start     | 2025-06-01                       |
-| Abstract Deadline  | 2025-07-15                       |
-| Abstract Reviewing | 2025-07-16 to 2025-07-25         |
-| Notifications Sent | 2025-07-26                       |
-| Day 1 Sessions     | "Opening Ceremony", "AI Session" |
-| Day 2 Sessions     | "Engineering Research", "Breaks" |
-| Room Booked        | E.g., Senate Hall, UoP           |
+🛠️ Click **Add New Track**
+
+ **Examples**:
+
+* **Track 1**: Artificial Intelligence & Data Science
+* **Track 2**: Environmental and Climate Research
+* **Track 3**: Health and Medical Innovations
+
+---
+
+###  **Step 5: Add Contribution Types**
+
+ Location:
+`Management Area → Abstracts → Contribution Types`
+
+🛠️ Click **Add Contribution Type**
+
+ **Examples**:
+
+* **Oral Presentation** (15 minutes + Q\&A)
+* **Poster Presentation**
+
+---
+
+###  **Step 6: Add Abstract Reviewers**
+
+ Location:
+`Management Area → Abstracts → Reviewers`
+
+🛠️ Add people (by name/email) who will review submissions.
+
+ **Example**:
+
+* Dr. Sumedha ([sumedha@pdn.ac.lk](mailto:sumedha@pdn.ac.lk)) – Assigned to Track 1
+* Prof. Priyanka ([priyanka@med.pdn.ac.lk](mailto:priyanka@med.pdn.ac.lk)) – Track 3
+
+---
+
+###  Summary Table (Based on Example)
+
+| **Task**                   | **Date/Details**                  |
+| -------------------------- | --------------------------------- |
+| Conference Start           | Oct 5, 2025                       |
+| Conference End             | Oct 7, 2025                       |
+| Abstract Submission Opens  | Jun 1, 2025                       |
+| Abstract Submission Closes | Jul 15, 2025                      |
+| Review Period              | Jul 16 – Jul 25, 2025             |
+| Notification Date          | Jul 26, 2025 (via email)          |
+| Contribution Types         | Oral, Poster                      |
+| Abstract Tracks            | AI, Environment, Medical Research |
 
 ---
 
