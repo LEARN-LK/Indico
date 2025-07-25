@@ -55,9 +55,10 @@ It is the **most powerful and feature-rich event type** in Indico and is ideal f
 ---
 
 * [General Conference Process](https://github.com/LEARN-LK/Indico/blob/main/GeneralConferencePlanningProcess.md)
-* [Site Admin](https://github.com/LEARN-LK/Indico/blob/main/admin.md)
-* University Coordinator/Category Manager
+
   - A [Creating an Indico Account (with/without Shibboleth)](https://github.com/LEARN-LK/Indico/blob/main/create-account%26update-profile.md)
+  - B (Site Admin Task) [Create Category for University](https://github.com/LEARN-LK/Indico/blob/main/admin.md)
+  - C [Create the Conference Event]()
   - [How to Create and Manage a Conference in Indico](https://github.com/LEARN-LK/Indico/blob/main/Create%26Manage-Conference.md)
 
 
