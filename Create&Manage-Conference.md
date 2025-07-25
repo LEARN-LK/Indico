@@ -97,6 +97,8 @@ Once the university coordinator (e.g., Dr. Silva) is added as a manager, they ca
 2.2 Click the  pencil icon **[3]** (top-right) to open the Management Area.
 <img src="https://github.com/LEARN-LK/Indico/blob/main/img/conference-basic-02.png" width="530">
 
+2.3 In the left sidebar, click Protection **[4]**.
+
 <img src="https://github.com/LEARN-LK/Indico/blob/main/img/Protection-01.png" width="40%">
 
    
@@ -111,7 +113,7 @@ Once the university coordinator (e.g., Dr. Silva) is added as a manager, they ca
   
    * You will now be able to find and add them
 
-5. Click the **pencil icon ✏️** next to the user’s name to assign specific roles/permissions:
+5. Click the **pencil icon** next to the user’s name to assign specific roles/permissions:
 
    * Manage Abstracts
    * Registration
