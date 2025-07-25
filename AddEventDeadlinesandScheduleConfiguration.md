@@ -2,13 +2,9 @@
 
 This step focuses on managing important **deadlines** and organizing the **event schedule** (program). Once the conference basics are configured, the university conference manager can define abstract deadlines, session timelines, and publish the schedule for attendees.
 
----
-
 ###  Purpose:
 
 To define submission/review deadlines and build a day-by-day event program with sessions and contributions.
-
----
 
 ###  Role Responsible:
 
@@ -17,8 +13,6 @@ To define submission/review deadlines and build a day-by-day event program with 
 ---
 
 ###  Step-by-Step Guide:
-
----
 
 ### 1.  Set Abstract Deadlines
 
