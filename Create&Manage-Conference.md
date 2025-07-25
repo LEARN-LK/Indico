@@ -5,17 +5,18 @@ Once the university coordinator (e.g., Dr. Silva) is added as a manager, they ca
 
 ###  A. Create a Conference
 
-1. Go to your dashboard: `https://indico.learn.ac.lk`
-2. Click **“Create event” [1]** → Choose **“Conference” [2]**
+1. Log in as Dr. Silva
+2. Navigate to University of Peradeniya category
+3. Click **“Create event” [1]** → Choose **“Conference” [2]**
  <img src="https://github.com/LEARN-LK/Indico/blob/main/img/create-conference-01.png" width="430">
-   
-3. Fill in the basic details **[3]**:
+ 
+4. Fill in the basic details **[3]**:
 
    * **Title**: *National Research Conference 2025*
    * **Start/End Dates**: *August 20–22, 2025*
    * **Location**: *University of Colombo*
    * **Timezone**: `Asia/Colombo`
-4. Click **Create Event [4]**
+5. Click **Create Event [4]**
 
   <img src="https://github.com/LEARN-LK/Indico/blob/main/img/create-conference-02.png" width="430">
 
@@ -32,7 +33,7 @@ Once the university coordinator (e.g., Dr. Silva) is added as a manager, they ca
   Example: “National Research Conference 2025”
 
     
-* On the conference page, click the ✏️ pencil icon (or Management button) to access the Management Area
+* On the conference page, click the  pencil icon (or Management button) to access the Management Area
 
   <img src="https://github.com/LEARN-LK/Indico/blob/main/img/conference-basic-02.png" width="530">
 
