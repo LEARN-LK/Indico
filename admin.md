@@ -18,7 +18,7 @@ To organize conferences by university or institute, the LEARN Indico admin first
 <img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-01.png" width="730">
    
 3. Navigate to the relevant parent category (or the homepage for a top-level category).
-4. Click the **➕ Create subcategory [2] ** button.
+4. Click the **➕ Create subcategory [2]** button.
 <img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-06.png" width="730">
    
 5. Fill in:
@@ -33,15 +33,21 @@ To organize conferences by university or institute, the LEARN Indico admin first
 
 #### Step 2: Assign a Category Manager
 
-1. In the **newly created category** (e.g., `University of Peradeniya`), click the **🛠️ gear icon** in the top-right.
+1. In the **newly created category** (e.g., `University of Peradeniya`), click the ** gear icon** in the top-right.
 2. From the left sidebar, click **Protection [6]**.
-<img src="https://github.com/LEARN-LK/Indico/blob/main/img/Category-03.png" width="730">  
-4. Under **Managers**, click **Add User [7.0]**.
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/Category-03.png" width="730">
+ 
+3. Under **Category protection > Permission** , click **Add User [7.0]**.
 <img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-07.png" width="430">
+
+4. Search for the user (e.g., `Dr. Silva`) by name  **[7]** or email (they must have an Indico account).
 <img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-04.png" width="730">
-5. Search for the user (e.g., `Dr. Silva`) by name or email (they must have an Indico account).
-6. Select the user and assign as **Manager**.
-7. Click **Save**.
+
+   
+5. Select the user and assign as **Manager [10]**.
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-05.png" width="330">
+   
+6. Click **Save**.
 
 ---
 
