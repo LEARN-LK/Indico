@@ -24,13 +24,15 @@ Once the university category is created and a manager is assigned, the manager (
 
 ###  B. Configure Conference Basics
 
+After creating the event and assigning managers, the university conference manager (e.g., Dr. Silva) should configure basic conference details like the title, description, timezone, logo, and visibility settings.
+
 (*Performed by University Conference Manager, e.g., Dr. Silva*)
 
 ---
 
 ###  Purpose:
 
-To define the core structure and information of the conference, such as its title, dates, timezone, location, description, and visibility settings.
+To define the essential event information that appears on the public conference page.
 
 ---
 
@@ -59,18 +61,19 @@ To define the core structure and information of the conference, such as its titl
 1. In the left sidebar, click **Overview → Settings**.
 2. Fill in the following fields:
 
-| Field                    | Description                  | Example                                                            |
-| ------------------------ | ---------------------------- | ------------------------------------------------------------------ |
-| **Title**                | Name of the conference       | National Research Conference 2025                                  |
-| **Description**          | Short summary of the event   | Annual research conference hosted by University of Peradeniya      |
-| **Start/End Date**       | Date range of the event      | Start: 2025-11-20 / End: 2025-11-22                                |
-| **Timezone**             | Time zone of the event       | Asia/Colombo                                                       |
-| **Type**                 | Type of event                | Conference                                                         |
-| **Venue & Room**         | Set event location           | University of Peradeniya - Senate Hall                             |
-| **Map URL** *(optional)* | Link to Google Maps location | [https://maps.app.goo.gl/example](https://maps.app.goo.gl/example) |
-| **Organizer Info**       | Who organizes the event      | Faculty of Science, University of Peradeniya                       |
+| Field                 | Description                                                                |
+| --------------------- | -------------------------------------------------------------------------- |
+| **Title**             | Main title of the event (e.g., *National Research Conference 2025*)        |
+| **Category**          | Should already show *University of Peradeniya*                             |
+| **Timezone**          | Select correct timezone (e.g., *Asia/Colombo*)                             |
+| **Start / End Dates** | Enter actual dates of the event (e.g., 2025-09-10 to 2025-09-12)           |
+| **Logo**              | Upload your university or conference logo                                  |
+| **Theme**             | Choose layout style (e.g., *Indico Weeks View* or *Indico Material Theme*) |
+| **Description**       | Brief description of the event with welcome message or objectives          |
+| **Visibility**        | Make the event **public** or **restricted** (public is recommended)        |
 
-> 💡 You can also upload a logo or banner for branding under **"Layout"** later.
+
+>  You can also upload a logo or banner for branding under **"Layout"** later.
 
 ---
 
@@ -80,15 +83,20 @@ To define the core structure and information of the conference, such as its titl
 
 ---
 
-###  Example Scenario
 
-Dr. Silva is organizing the **National Research Conference 2025** scheduled for **November 20–22, 2025**, to be held at **Senate Hall**, University of Peradeniya.
-In Indico, she sets:
+### Example:
 
-* Title: *National Research Conference 2025*
-* Date: *2025-11-20 to 2025-11-22*
-* Description: *An academic platform for presenting research across Sri Lankan universities.*
-* Venue: *Senate Hall*
-* Timezone: *Asia/Colombo*
+* **Title:** National Research Conference 2025
+* **Dates:** 10–12 September 2025
+* **Timezone:** Asia/Colombo
+* **Logo:** `nrc2025-logo.png`
+* **Description:**
+
+  ```
+  Welcome to the National Research Conference 2025 hosted by the University of Peradeniya. 
+  This event brings together researchers across Sri Lanka to present and discuss current developments in science and innovation.
+  ```
+
+---
 
 
