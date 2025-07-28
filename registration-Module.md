@@ -1,5 +1,5 @@
 
-##  Step G: Create a Registration Form
+##  Step F: Create a Registration Form
 
 ###  Purpose:
 
