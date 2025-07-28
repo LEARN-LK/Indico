@@ -60,6 +60,30 @@ Once submissions are closed, reviewers have **9 days** to evaluate them.
 * **Track 2**: Environmental and Climate Research
 * **Track 3**: Health and Medical Innovations
 
+
+### 3. **Add Tracks for Abstract Submission**
+
+ **Location**:
+`Management Area → Organization → Program`
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/program-01.png" width="530">
+
+ **Steps**:
+
+* Click **“Program [1] in the left sidebar.
+* Under “List of tracks and track groups”:
+
+  * Click **➕ Add track [2]**.
+
+  <img src="https://github.com/LEARN-LK/Indico/blob/main/img/program-02.png" width="530"> 
+  
+  * Fill in the **Track Title [3]** (e.g., *AI & Machine Learning*).
+  * Optionally add a **Description**.
+  * Click **Save [4]**.
+
+ **Note**: Tracks help organize abstracts by topic. Reviewers and submitters use them for categorization.
+
+
 ---
 
 ###  **Step 4: Add Contribution Types**
@@ -85,14 +109,46 @@ Management Area → Abstracts → Contribution Types **[1]** → New Contributio
  Location:
 `Management Area → Abstracts → Reviewers`
 
-🛠️ Add people (by name/email) who will review submissions.
-
- **Example**:
-
-* Dr. Sumedha ([sumedha@pdn.ac.lk](mailto:sumedha@pdn.ac.lk)) – Assigned to Track 1
-* Prof. Priyanka ([priyanka@med.pdn.ac.lk](mailto:priyanka@med.pdn.ac.lk)) – Track 3
 
 ---
+
+#### 🛠️ Steps:
+
+1. Go to the **Management Area** of your event.
+2. Click on **Abstracts** in the left-hand sidebar.
+3. Select the **Reviewers [1]** tab.
+
+   <img src="https://github.com/LEARN-LK/Indico/blob/main/img/review-role01.png" width="530">"
+
+4. Click the **➕ Role [2]** button.
+5. In the popup:
+
+   * **Role  [7]**: Select `Reviewer`.
+   * **User [3]**: Type the reviewer’s **name or email** (they must have an Indico account).
+
+      <img src="https://github.com/LEARN-LK/Indico/blob/main/img/review-role02.png" width="530">"
+
+   * **Track**: Choose the specific track(s) they should review.
+
+     <img src="https://github.com/LEARN-LK/Indico/blob/main/img/review-role-03.png?raw=true" width="530">
+     
+6. Click **Assign**.
+
+---
+
+####  Example:
+
+| Reviewer Name  | Email                    | Assigned Track                |
+| -------------- | ------------------------ | ----------------------------- |
+| Dr. Sumedha    | `sumedha@pdn.ac.lk`      | Track 1 – AI & ML             |
+| Prof. Priyanka | `priyanka@med.pdn.ac.lk` | Track 3 – Biomedical Research |
+
+>  **Note**: If you haven’t added tracks yet, Indico will show the message:
+> *“Since this event has no tracks, reviewer roles are disabled. Only judgment is available.”*
+> ➜ Ensure you’ve added at least one **Track** in `Program` before assigning reviewers.
+
+---
+
 
 ###  Summary Table (Based on Example)
 
