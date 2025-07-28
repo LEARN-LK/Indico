@@ -67,7 +67,10 @@ Once submissions are closed, reviewers have **9 days** to evaluate them.
  Location:
 `Management Area → Abstracts → Contribution Types`
 
-🛠️ Click **Add Contribution Type**
+<img src="<img src="https://github.com/LEARN-LK/Indico/blob/main/img/Abstract-01.png" width="530">"
+<img src="<img src="https://github.com/LEARN-LK/Indico/blob/main/img/Abstract-02.png" width="530">" 
+
+ Click **Add Contribution Type**
 
  **Examples**:
 
