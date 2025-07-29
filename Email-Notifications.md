@@ -6,7 +6,7 @@ This step helps you configure **automated email notifications** for your Indico 
 
 ### Step-by-Step Tasks
 
-#### **Step 1: Configure Registration Notifications**
+### **Step 1: Configure Registration Notifications**
 **Location**: Management Area → Registration → Configure
 1. Go to the **Management Area** of your event (e.g., National Research Conference 2025).
 2. Click **Registration [1]** in the left menu, then select **Manage [2]** in "NRC 2025 Participant Registration" form.
@@ -30,7 +30,7 @@ This step helps you configure **automated email notifications** for your Indico 
 7. Ensure **Moderated** is checked under the registration form settings to enable the pending approval process.
 8. Save changes by clicking **Save**.
 
-#### **Step 2: Manage Registrations and Trigger Notifications**
+### **Step 2: Manage Registrations and Trigger Notifications**
 **Location**: Management Area → Registration → Registrants
 1. Go to **Registration** in the Management Area, then select **Registrants** to view the list of registrations.
 2. Locate the pending registration (e.g., Gayan Bandara, ID #2, submitted Jul 29, 2025, 02:20 PM).
@@ -40,7 +40,7 @@ This step helps you configure **automated email notifications** for your Indico 
    - **Reset registrations**: Resets the registration state, potentially triggering a follow-up email.
 4. The notification email will use the templates defined in Step 1, including any attached iCalendar files for approved registrations.
 
-#### **Step 3: Set Up Abstract Submission Notifications**
+### **Step 3: Set Up Abstract Submission Notifications**
 **Location**: Management Area → Call for Abstracts → Reviewing → Notification Templates
 1. Go to **Call for Abstracts** in the Management Area.
 2. Click the **Reviewing** tab, then select **Notification Templates**.
