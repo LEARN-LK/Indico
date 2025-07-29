@@ -10,7 +10,7 @@ This step helps you configure **automated email notifications** for your Indico 
 #### **Step 1: Configure Registration Notifications**
 **Location**: Management Area → Registration → Configure
 1. Go to the **Management Area** of your event (e.g., National Research Conference 2025).
-2. Click **Registration** in the left menu, then select **Configure** next to the "IRC Registration" form.
+2. Click **Registration** in the left menu, then select **Configure** next to the "NRC 2025 Participant Registration".
 3. In the **Notifications for registrants** section:
    - Set the **Notification sender** email address (e.g., `noreply@learn.ac.lk`). If empty, the default Indico email is used.
    - Customize the **Message for pending registrations** (sent to users awaiting approval if moderation is enabled). Use Markdown syntax and placeholders like `{registrant_full_name}` or `{event_name}`.
