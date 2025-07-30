@@ -1,4 +1,4 @@
-## I – Setup Email Notifications
+## G – Setup Email Notifications
 
 This step helps you configure **automated email notifications** for your Indico conference (e.g., National Research Conference 2025) to keep participants and organizers informed at every stage.
 
