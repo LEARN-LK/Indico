@@ -38,7 +38,6 @@ This step helps you configure **automated email notifications** for your Indico 
    - **Approve registrations**: Sends the "Message for complete registrations" to the registrant (e.g., `gayan@learn.ac.lk`) and, if enabled, to organizers.
    - **Reject registrations**: Sends a rejection notification (if configured in the template).
    - **Reset registrations**: Resets the registration state, potentially triggering a follow-up email.
-4. The notification email will use the templates defined in Step 1, including any attached iCalendar files for approved registrations.
 
 ### **Step 3: Set Up Abstract Submission Notifications**
 **Location**: Management Area → Call for Abstracts → Reviewing → Notification Templates
