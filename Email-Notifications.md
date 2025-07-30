@@ -31,10 +31,14 @@ This step helps you configure **automated email notifications** for your Indico 
 8. Save changes by clicking **Save**.
 
 ### **Step 2: Manage Registrations and Trigger Notifications**
-**Location**: Management Area → Registration → Registrants
-1. Go to **Registration** in the Management Area, then select **Registrants** to view the list of registrations.
-2. Locate the pending registration (e.g., Gayan Bandara, ID #2, submitted Jul 29, 2025, 02:20 PM).
-3. Use the **Moderation** dropdown to:
+**Location**: Management Area → Registration **[1]**]* → Registrants
+1. Go to **Registration [1]** in the Management Area, then select **Registrants [2]** to view the list of registrations.
+
+    <img src="https://github.com/LEARN-LK/Indico/blob/main/img/reg-approve-01.png" width="430">
+2. Locate the pending registration **[3]**(e.g., Gayan Bandara, ID #2, submitted Jul 29, 2025, 02:20 PM).
+3. Use the **Moderation [4]** dropdown to:
+
+   <img src="https://github.com/LEARN-LK/Indico/blob/main/img/reg-approve-02.png" width="430">
    - **Approve registrations**: Sends the "Message for complete registrations" to the registrant (e.g., `gayan@learn.ac.lk`) and, if enabled, to organizers.
    - **Reject registrations**: Sends a rejection notification (if configured in the template).
    - **Reset registrations**: Resets the registration state, potentially triggering a follow-up email.
