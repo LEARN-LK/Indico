@@ -63,6 +63,9 @@ It is the **most powerful and feature-rich event type** in Indico and is ideal f
   - E [Add Event Dates, Deadlines, and Schedule Configuration](https://github.com/LEARN-LK/Indico/blob/main/AddEventDeadlinesandScheduleConfiguration.md)
   - F [Registration Module](https://github.com/LEARN-LK/Indico/blob/main/registration-Module.md)
   - G [Setup Email Notifications](https://github.com/LEARN-LK/Indico/blob/main/Email-Notifications.md)
+  - H [Add Contributions (Sessions, Presentations)]()
+  - I [Upload Presentation Files and Materials]()
+  - J [Customize Certificates and Generate Participation Documents]()
   - [How to Create and Manage a Conference in Indico](https://github.com/LEARN-LK/Indico/blob/main/Create%26Manage-Conference.md)
 
 
