@@ -39,28 +39,39 @@ This step helps you configure **automated email notifications** for your Indico 
 3. Use the **Moderation [4]** dropdown to:
 
    <img src="https://github.com/LEARN-LK/Indico/blob/main/img/reg-approve-02.png" width="430">
+   
    - **Approve registrations**: Sends the "Message for complete registrations" to the registrant (e.g., `gayan@learn.ac.lk`) and, if enabled, to organizers.
    - **Reject registrations**: Sends a rejection notification (if configured in the template).
    - **Reset registrations**: Resets the registration state, potentially triggering a follow-up email.
 
-### **Step 3: Set Up Abstract Submission Notifications**
+
+#### **Step 3: Set Up Abstract Submission Notifications**
 **Location**: Management Area → Call for Abstracts → Reviewing → Notification Templates
-1. Go to **Call for Abstracts** in the Management Area.
-2. Click the **Reviewing** tab, then select **Notification Templates**.
-3. Click **Add** to create a new template:
+1. Ensure the "Call for Abstracts" feature is enabled:
+   - Go to **Management Area → Call for Abstracts → Setup** and activate it if not already done.
+2. Go to **Call for Abstracts** in the Management Area.
+3. Click the **Reviewing** tab, then select **Notification Templates**.
+4. Click **Add** to create a new template:
    - **Title**: E.g., "Abstract Accepted."
-   - **From Address**: Set the sender email.
-   - **To Address**: Select recipients (e.g., submitters, primary authors).
-   - **Condition**: Choose when the email is sent (e.g., abstract accepted, rejected).
-   - Use placeholders like `{abstract_title}`, `{submitter_full_name}`, or `{event_name}`.
-4. Save the template. Emails will be sent automatically when conditions are met.
+   - **From Address**: Set the sender email (e.g., `noreply@learn.ac.lk`).
+   - **To Address**: Select recipients (e.g., submitters, primary authors, or both).
+   - **Condition**: Choose when the email is sent (e.g., abstract accepted, rejected, or submitted).
+   - Use placeholders like `{abstract_title}`, `{submitter_full_name}`, or `{event_name}` (verify available placeholders in the editor).
+5. Click **Save** to store the template. Emails will be sent automatically when the specified conditions are met (e.g., after a review action like accepting an abstract).
 
 #### **Step 4: Send Manual Emails (Optional)**
-**Location**: Management Area → Registration → Registrants → Email
-1. Go to **Registration → Registrants → Email**.
-2. Select recipients (e.g., all registrants, including Gayan Bandara, or specific groups like presenters).
-3. Compose the email, attaching files or links as needed, and use placeholders for personalization.
-4. Send the email to notify participants manually.
+**Location**: Management Area → Registration → Registrants → Email **or** Call for Abstracts → List of Abstracts → Email **or** Participants → Email
+1. For registrants:
+   - Go to **Registration → Registrants → Email**.
+   - Select recipients (e.g., all registrants including Gayan Bandara, or specific groups like presenters).
+2. For abstract authors/reviewers:
+   - Go to **Call for Abstracts → List of Abstracts → Email**.
+   - Select specific abstracts and choose recipients (e.g., authors or reviewers).
+3. For meeting participants:
+   - Go to **Participants → Email**.
+   - Select participants to email.
+4. Compose the email, attaching files or links as needed, and use placeholders (e.g., `{registrant_full_name}`, `{abstract_title}`) for personalization.
+5. Click **Send** to deliver the email immediately to the selected recipients.
 
 ---
 
@@ -74,16 +85,10 @@ For **National Research Conference 2025** (held 18 Aug - 20 Aug 2025):
   > *Subject: NRC 2025 – Registration Approved*  
   > *Dear {registrant_full_name},*  
   > *Your registration for the National Research Conference 2025 is approved. Event details: 18–20 Aug 2025...*
+- **Abstract Acceptance** (sent to a submitter):
+  > *Subject: NRC 2025 – Abstract Accepted*  
+  > *Dear {submitter_full_name},*  
+  > *Your abstract titled "{abstract_title}" has been accepted for Session 3 on Aug 19.*
 
 ---
 
-### Notes
-- **Moderation**: The "Pending" state for Gayan Bandara’s registration (Jul 29, 2025, 02:20 PM) confirms moderation is active. Approve or reject it to trigger the respective notifications.
-- **Placeholders**: Verify available placeholders in the template editor (e.g., `{registrant_full_name}`, `{event_name}`).
-- **Testing**: Test notifications by approving/rejecting a test registration (e.g., your own) and checking the email sent to `gayan@learn.ac.lk`.
-- **Time Sensitivity**: Act on pending registrations promptly, as the event is scheduled for 18–20 Aug 2025.
-- **Support**: Refer to Indico v3.3.7 documentation or contact support for template customization help.
-
----
-
-This updated guide integrates the registration configuration and moderation process, ensuring email notifications are set up and triggered correctly for the "National Research Conference 2025." Let me know if you need assistance with specific actions (e.g., approving Gayan Bandara’s registration) or further customization!
