@@ -1,12 +1,10 @@
-## Part 3: I – Setup Email Notifications
+## I – Setup Email Notifications
 
 This step helps you configure **automated email notifications** for your Indico conference (e.g., National Research Conference 2025) to keep participants and organizers informed at every stage.
 
 ---
 
-### Step-by-Step Tasks
-
-### **Step 1: Configure Registration Notifications**
+## 1: Configure Registration Notifications**
 **Location**: Management Area → Registration → Configure
 1. Go to the **Management Area** of your event (e.g., National Research Conference 2025).
 2. Click **Registration [1]** in the left menu, then select **Manage [2]** in "NRC 2025 Participant Registration" form.
@@ -30,7 +28,7 @@ This step helps you configure **automated email notifications** for your Indico 
 7. Ensure **Moderated** is checked under the registration form settings to enable the pending approval process.
 8. Save changes by clicking **Save**.
 
-### **Step 2: Manage Registrations and Trigger Notifications**
+## 2: Manage Registrations and Trigger Notifications**
 **Location**: Management Area → Registration **[1]**]* → Registrants
 1. Go to **Registration [1]** in the Management Area, then select **Registrants [2]** to view the list of registrations.
 
@@ -44,22 +42,29 @@ This step helps you configure **automated email notifications** for your Indico 
    - **Reject registrations**: Sends a rejection notification (if configured in the template).
    - **Reset registrations**: Resets the registration state, potentially triggering a follow-up email.
 
+---
 
-#### **Step 3: Set Up Abstract Submission Notifications**
-**Location**: Management Area → Call for Abstracts → Reviewing → Notification Templates
+### 3: Set Up Abstract Submission Notifications
+**Location**: Management Area → Call for Abstracts → Submission → Notifications
 1. Ensure the "Call for Abstracts" feature is enabled:
-   - Go to **Management Area → Call for Abstracts → Setup** and activate it if not already done.
+   - Go to **Management Area → Call for Abstracts → Setup** and confirm it is active (as shown in the second screenshot with "The call for abstracts is open").
 2. Go to **Call for Abstracts** in the Management Area.
-3. Click the **Reviewing** tab, then select **Notification Templates**.
-4. Click **Add** to create a new template:
-   - **Title**: E.g., "Abstract Accepted."
-   - **From Address**: Set the sender email (e.g., `noreply@learn.ac.lk`).
-   - **To Address**: Select recipients (e.g., submitters, primary authors, or both).
-   - **Condition**: Choose when the email is sent (e.g., abstract accepted, rejected, or submitted).
-   - Use placeholders like `{abstract_title}`, `{submitter_full_name}`, or `{event_name}` (verify available placeholders in the editor).
-5. Click **Save** to store the template. Emails will be sent automatically when the specified conditions are met (e.g., after a review action like accepting an abstract).
+3. Click the **Submission** tab at the top of the Call for Abstracts section.
+4. Click the **Notifications** button (envelope icon) to open the "Configure e-mail notifications" panel (as shown in the first screenshot).
+5. Configure the notification templates:
+   - Locate the desired template (e.g., "Submitted," "Accepted," "Rejected," etc.).
+   - Click **Edit** (pencil icon) for the template you want to modify.
+   - Set the **From Address** (e.g., `noreply@learn.ac.lk`) if not preconfigured.
+   - Customize the email content using placeholders like `{abstract_title}`, `{submitter_full_name}`, or `{event_name}` (verify available placeholders in the editor).
+   - The condition is predefined based on the template’s state (e.g., "Accepted" triggers when an abstract is accepted).
+6. Click **Save** to store the template. Emails will be sent automatically when the abstract reaches the corresponding state (e.g., after acceptance).
+7. (Optional) Reorder the list of notifications or enable "stop on match" to control notification priority, as noted in the interface.
 
-#### **Step 4: Send Manual Emails (Optional)**
+---
+
+
+
+## 4: Send Manual Emails (Optional)**
 **Location**: Management Area → Registration → Registrants → Email **or** Call for Abstracts → List of Abstracts → Email **or** Participants → Email
 1. For registrants:
    - Go to **Registration → Registrants → Email**.
