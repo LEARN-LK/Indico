@@ -48,14 +48,20 @@ This step helps you configure **automated email notifications** for your Indico 
 **Location**: Management Area → Call for Abstracts → Submission → Notifications
 1. Ensure the "Call for Abstracts" feature is enabled:
    - Go to **Management Area → Call for Abstracts → Setup** and confirm it is active (as shown in the second screenshot with "The call for abstracts is open").
-2. Go to **Call for Abstracts** in the Management Area.
+
+    <img src="https://github.com/LEARN-LK/Indico/blob/main/img/abstract-1.png" width="530">  
+2. Go to **Call for Abstracts [1]** in the Management Area.
 3. Click the **Submission** tab at the top of the Call for Abstracts section.
-4. Click the **Notifications** button (envelope icon) to open the "Configure e-mail notifications" panel (as shown in the first screenshot).
+4. Click the **Notifications [2]** button (envelope icon) to open the **"Edit e-mail text"** panel.
+
+   <img src="https://github.com/LEARN-LK/Indico/blob/main/img/abstact-2.png" width="430">
 5. Configure the notification templates:
-   - Locate the desired template (e.g., "Submitted," "Accepted," "Rejected," etc.).
-   - Click **Edit** (pencil icon) for the template you want to modify.
-   - Set the **From Address** (e.g., `noreply@learn.ac.lk`) if not preconfigured.
-   - Customize the email content using placeholders like `{abstract_title}`, `{submitter_full_name}`, or `{event_name}` (verify available placeholders in the editor).
+   - Locate the desired template **[3]**(e.g., "Submitted," "Accepted," "Rejected," etc.).
+   - Click **Edit [4]** (pencil icon) for the template you want to modify.
+
+      <img src="https://github.com/LEARN-LK/Indico/blob/main/img/abstract-3.png" width="430">
+   - Set the **"Reply to" address [5]** (e.g., `noreply@learn.ac.lk`) if not preconfigured.
+   - Customize the email content using placeholders like  **[6]** `{abstract_title}`, `{submitter_full_name}`, or `{event_name}` (verify available placeholders in the editor).
    - The condition is predefined based on the template’s state (e.g., "Accepted" triggers when an abstract is accepted).
 6. Click **Save** to store the template. Emails will be sent automatically when the abstract reaches the corresponding state (e.g., after acceptance).
 7. (Optional) Reorder the list of notifications or enable "stop on match" to control notification priority, as noted in the interface.
