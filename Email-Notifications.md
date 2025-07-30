@@ -73,16 +73,19 @@ This step helps you configure **automated email notifications** for your Indico 
 ## 4: Send Manual Emails (Optional)**
 **Location**: Management Area → Registration → Registrants → Email **or** Call for Abstracts → List of Abstracts → Email **or** Participants → Email
 1. For registrants:
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/reg-approve-01.png" width="430">
+ <img src="https://github.com/LEARN-LK/Indico/blob/main/img/reg-approve-02.png" width="430">
+
    - Go to **Registration → Registrants → Email**.
    - Select recipients (e.g., all registrants including Gayan Bandara, or specific groups like presenters).
-2. For abstract authors/reviewers:
+3. For abstract authors/reviewers:
    - Go to **Call for Abstracts → List of Abstracts → Email**.
    - Select specific abstracts and choose recipients (e.g., authors or reviewers).
-3. For meeting participants:
-   - Go to **Participants → Email**.
-   - Select participants to email.
-4. Compose the email, attaching files or links as needed, and use placeholders (e.g., `{registrant_full_name}`, `{abstract_title}`) for personalization.
-5. Click **Send** to deliver the email immediately to the selected recipients.
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/manual-abstract-1.png" width="430">
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/manual-abstract-2.png" width="430">
+    
 
 ---
 
