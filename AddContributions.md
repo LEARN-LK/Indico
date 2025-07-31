@@ -1,5 +1,4 @@
 
-
 ##  **Part 3: J – Organize Contributions (Sessions, Presentations)**
 
 Contributions (e.g., talks, posters, papers) are the core components of your conference. As an organizer for the "National Research Conference 2025," you can manually add and organize them into sessions and the timetable, or enable abstract submissions for speakers to contribute.
@@ -16,18 +15,22 @@ Contributions (e.g., talks, posters, papers) are the core components of your con
  **Location:**  
 **Management Area → Contributions → Add new**
 
-1. In the **Management Area**, go to **Contributions**.
-2. Click **Add new** to create a contribution manually.
-3. Fill in the fields:
-   - **Title**: E.g., *“AI in Medical Imaging”*
-   - **Speakers**: Add presenter(s) with Indico accounts (e.g., email or name).
-   - **Duration**: E.g., *20 minutes*
-   - **Type**: Select from preconfigured types (Oral, Poster, etc.).
-   - **Description**: Add a summary.
-   - **Board Number** (optional): For posters.
-   - **Session** (optional): Assign to an existing session during creation.
-4. Click **Create Contribution**.
-5. Repeat for all planned contributions, ensuring a logical sequence for your program.
+1. In the **Management Area**, go to **Contributions [1]**.
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/add-contribution-02.png" width="530">
+   
+3. Click **Add new [2]** to create a contribution manually.
+4. Fill in the fields:
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/add-contribution-01.png" width="530">
+   
+   - **Title [3]**: E.g., *“AI in Medical Imaging”*
+   - **Speakers [7]**: Add presenter(s) with Indico accounts (e.g., email or name).
+   - **Duration [5]**: E.g., *20 minutes*
+   - **Type [6]**: Select from preconfigured types (Oral, Poster, etc.).
+   - **Description [4]**: Add a summary.
+  
+5. Click **Create Contribution [8]**.
+6. Repeat for all planned contributions, ensuring a logical sequence for your program.
 
 >  Use this to build your conference’s content as an organizer.
 
