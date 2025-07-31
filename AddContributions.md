@@ -7,8 +7,6 @@ Contributions (e.g., talks, posters, papers) are the core components of your con
 
 ###  Step-by-Step Tasks
 
----
-
 
 ### **Step 1: Add and Organize Contributions Manually**
 
@@ -38,52 +36,22 @@ Contributions (e.g., talks, posters, papers) are the core components of your con
 
 ### **Step 2: Create and Assign Sessions**
 
+
+
 **Location:**  
 **Management Area → Timetable**
 
-1. Go to the **Timetable** section in the Management Area to organize your program.
-2. Click **Add new → Session block** to create a session (e.g., "AI & Data Science" on Day 1).
-   - Set the session title, start time, and duration.
-   - Click **Save** to create the block.
-3. Assign contributions:
-   - Drag contributions from the **Contributions** list into the session block.
-   - Alternatively, click a time slot within the session → **Add existing contribution** and select from the list.
-4. Adjust **time** and **duration** for each contribution as needed.
-5. Click **Save** to finalize the timetable layout.
+1. Go to the **Timetable [1]** section in the Management Area to organize your program.
 
->  This step structures your conference into organized sessions for attendees.
+   <img src="https://github.com/LEARN-LK/Indico/blob/main/img/timetable-01.png" width="530">
+2. Click **Add new [2] → Session block [2]** to create a session  (e.g., "AI & Data Science" on Day 1).
+   - Set the **session title [3]** , start time **[4]**, and duration **[5]**.
+   - Click **Save [7]** to create the block.
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/timetable-02.png" width="530">
 
 ---
 
-### **Step 3: Refine Contribution Organization**
 
- **Location:**  
-**Management Area → Contributions** or **Timetable**
-
-1. Go to **Contributions** and click a contribution title (e.g., “Deep Learning in Agriculture”) to edit.
-   - Upload materials via the **Materials** tab.
-   - Add co-authors or conveners under **Speakers** or **Roles**.
-   - Add internal notes for organizers.
-   - Click **Save** after updates.
-2. In **Timetable**, adjust session blocks or contribution timings if the schedule changes.
-   - Click **Save** to preserve changes.
-
->  Keep details updated as the event (18–20 Aug 2025) approaches.
-
----
-
-###  Example: Organize a Talk in “AI & Data Science” Session
-
-1. Go to **Contributions → Add New**
-   - **Title**: “Deep Learning in Agriculture”
-   - **Speaker**: Dr. Harsha Perera
-   - **Type**: Oral
-   - **Duration**: 15 min
-   - → Click **Create Contribution**
-
-2. Go to **Timetable** → Add **AI & Data Science** session block on Day 1 at 10:00 AM.
-   - Drag “Deep Learning in Agriculture” into the block.
-   - Adjust to 10:00–10:15 AM, then click **Save**.
-
----
+   
 
