@@ -6,29 +6,12 @@ Contributions (e.g., talks, posters, papers) are the core components of your con
 
 ---
 
-### 🔧 Step-by-Step Tasks
+###  Step-by-Step Tasks
 
 ---
 
-### **Step 1: Enable the Call for Abstracts (Optional)**
 
-> *Skip this if you’re adding all contributions manually.*
-
- **Location:**  
-**Management Area → Call for Abstracts → Setup**
-
-1. Go to the **Management Area** of the "National Research Conference 2025" event.
-2. Click **Call for Abstracts** in the left sidebar.
-3. Click the **Setup** tab at the top.
-4. Enable abstract submission by toggling the **Enable** switch.
-5. Set the **Submission deadline** (e.g., within 10-14 days, considering 18 days remain until 18–20 Aug 2025) and add **Announcement text**.
-6. Configure contribution types (e.g., Oral, Poster) under **Fields and types → Abstract fields**.
-7. Click **Save**.
-> Accepted abstracts will automatically become contributions for you to organize after review (via **Reviewing** tab).
-
----
-
-### **Step 2: Add and Organize Contributions Manually**
+### **Step 1: Add and Organize Contributions Manually**
 
  **Location:**  
 **Management Area → Contributions → Add new**
@@ -50,7 +33,7 @@ Contributions (e.g., talks, posters, papers) are the core components of your con
 
 ---
 
-### **Step 3: Create and Assign Sessions**
+### **Step 2: Create and Assign Sessions**
 
 **Location:**  
 **Management Area → Timetable**
@@ -69,7 +52,7 @@ Contributions (e.g., talks, posters, papers) are the core components of your con
 
 ---
 
-### **Step 4: Refine Contribution Organization**
+### **Step 3: Refine Contribution Organization**
 
  **Location:**  
 **Management Area → Contributions** or **Timetable**
