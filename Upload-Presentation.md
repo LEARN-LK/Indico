@@ -62,20 +62,6 @@ Within the contribution details page
 
 ---
 
-### **Step 4: Verify and Manage Materials as an Organizer**
-
- **Location:**  
-**Management Area → Contributions** or **Event homepage**
-
-1. In the **Management Area**, go to **Contributions**, select a contribution, and check the **Materials** tab.
-   - Verify multiple materials (e.g., Slides from July 30, Poster from July 31) and their timestamps/protection status (as shown in the screenshot).
-   - Click **Edit** to update or remove materials.
-2. Go to the **public event homepage** (e.g., verify URL like [https://indico.learn.ac.lk/event/123/](https://indico.learn.ac.lk/event/123/)).
-   - Navigate to **Timetable** or **Contributions** and confirm all materials display correctly.
-   - Test permissions by logging out (for public access) or logging in as a registered user.
-3. Assign upload permissions to speakers via **Management Area → Contributions → Roles** if needed.
-
----
 
 ###  Notes
 - **File Limits**: Maximum file size depends on server settings (contact admin if uploads fail, e.g., files over 50MB).
