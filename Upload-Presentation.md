@@ -1,90 +1,79 @@
-##  **Part 3: K – Upload Presentation Files and Materials**
-
-This section helps you upload **presentation slides, posters, papers, or supplementary materials** for each session or contribution in your Indico conference (e.g., NRC 2025). These files will be publicly visible to attendees (unless restricted) and accessible from the conference homepage. Speakers can also upload materials if granted permissions.
-
----
+## Upload Presentation Files and Materials
 
 ###  Step-by-Step Tasks
 
----
-
-### **Step 1: Go to the Contribution or Session**
+### **Step 1: Access Contribution or Session in Management Area**
 
  **Location:**  
 **Management Area → Contributions** or **Timetable**
 
-1. In the **Management Area**, click **Contributions**.
-2. Ensure the contribution (e.g., *“AI in Medical Imaging”*) exists (created in Part 3: J), then click its title to open details.
-   - Alternatively, go to **Timetable**, click the session block (e.g., “AI & Data Science”), then click the contribution title to access details.
+1. Log into the **Management Area** of the "National Research Conference 2025" event.
+2. Click **Contributions [1]** in the left sidebar to view all contributions.
 
----
+  <img src="https://github.com/LEARN-LK/Indico/blob/main/img/Material-01.png" width="830">
+  
+3. Select a contribution **(e.g., *“AI in Medical Imaging [2]”*)** by clicking its title to open details.
+   - Alternatively, go to **Timetable**, click a session block (e.g., “AI & Data Science”), and then click a contribution title to access details.
+   - Ensure the contribution or session was created.
 
-### **Step 2: Upload Materials**
+
+### **Step 2: Upload Materials for a Contribution**
 
  **Location:**  
 Within the contribution details page
 
-1. Inside the contribution details, go to the **Materials** tab or section.
-2. Click **Add material** or **Upload new file**.
-3. Choose the **type of material**:
-   - **Slides** (e.g., PowerPoint or PDF)
-   - **Poster**
-   - **Paper**
-   - **Minutes**
-   - **Video**
-   - **Other materials**
-4. Drag and drop your file or click **Browse** to select it.
-5. Optionally:
-   - Add a **description** (e.g., “Final version of presentation slides”).
-   - Set **access permissions** (Public, Registered users, Managers, or Inheritable).
-6. Click **Save** or **Add** to upload the file.
+1. In the contribution details, go to the **Materials** tab or section (as shown in the screenshot). 
+2. Click **Manage material [3]**.
+3. Click **Uploard file [4]**
 
-> Uploaded files will appear on the event homepage under the relevant contribution, subject to permissions.
+    <img src="https://github.com/LEARN-LK/Indico/blob/main/img/Material-02.png" width="830">
+4. Drag and drop the file or click **Browse [5]** to select it.
+
+   <img src="https://github.com/LEARN-LK/Indico/blob/main/img/Material-03.png" width="830">
+5. Optionally:
+   - Add a **description [6]** (e.g., “Poster for AI session”).
+   - Set **access permissions [7]** using the protection icon (e.g., Public, Registered users, Managers).
+6. Click **Uploard [8]** to upload the material, then verify it appears with the correct timestamp (e.g., today’s date, August 01, 2025).
+
+>  Multiple materials (e.g., Slides and Poster) can be added and will display on the event homepage with their upload dates.
 
 ---
 
-### **Step 3: Upload Files for Entire Session (Optional)**
+### **Step 3: Upload Materials for an Entire Session**
 
  **Location:**  
 **Management Area → Timetable → Session block**
 
-1. Go to **Timetable** and click a **Session Block** (e.g., “AI & Data Science”).
-2. Click **Manage materials** (or the gear icon) to access session materials.
-3. Upload session-wide materials like:
-   - Session welcome slides
-   - Video recordings
-   - PDFs for multiple talks
-   - Use the **Add material** option and select the appropriate type.
-4. Click **Save** to apply changes.
+1. In the **Management Area**, go to **Timetable** and click a **Session Block** (e.g., “AI & Data Science”).
+2. Click **Manage materials** (or the gear icon) to access session-level materials.
+3. Click **Add material**, select the type (e.g., Slides, Video), and upload a file (e.g., session agenda PDF).
+4. Optionally, add a description and set access permissions.
+5. Click **Save** to apply changes.
+
+>  Session materials will be linked to the session; ensure session blocks are created (e.g., in Part 3: J).
 
 ---
 
-### **Step 4: Preview on Public Conference Page**
+### **Step 4: Verify and Manage Materials as an Organizer**
 
  **Location:**  
-**Event homepage**
+**Management Area → Contributions** or **Event homepage**
 
-1. Go to the **public event homepage** (e.g., verify the URL like [https://indico.learn.ac.lk/event/123/](https://indico.learn.ac.lk/event/123/) with your event ID).
-2. Navigate to **Timetable** or **Contributions**.
-3. Verify that the uploaded files appear under each contribution.
-   - Test permissions by logging out to check public access or logging in as a registered user.
+1. In the **Management Area**, go to **Contributions**, select a contribution, and check the **Materials** tab.
+   - Verify multiple materials (e.g., Slides from July 30, Poster from July 31) and their timestamps/protection status (as shown in the screenshot).
+   - Click **Edit** to update or remove materials.
+2. Go to the **public event homepage** (e.g., verify URL like [https://indico.learn.ac.lk/event/123/](https://indico.learn.ac.lk/event/123/)).
+   - Navigate to **Timetable** or **Contributions** and confirm all materials display correctly.
+   - Test permissions by logging out (for public access) or logging in as a registered user.
+3. Assign upload permissions to speakers via **Management Area → Contributions → Roles** if needed.
 
 ---
 
 ###  Notes
-- **File Limits**: Maximum file size depends on server settings (contact Indico admin if uploads fail, e.g., files over 50MB).
-- **Speaker Permissions**: Grant upload rights to speakers via **Management Area → Contributions → Roles** if they should upload their own materials.
-- **Time Sensitivity**: With 18 days until 18–20 Aug 2025 (as of 12:26 PM +0530 on July 31, 2025), upload materials soon and remind speakers to submit theirs.
-- **Edits**: Files can be replaced or removed anytime by managers via the **Materials** tab.
+- **File Limits**: Maximum file size depends on server settings (contact admin if uploads fail, e.g., files over 50MB).
+- **Time Sensitivity**: With 17 days until 18–20 Aug 2025 (as of 09:14 AM +0530 on August 01, 2025), upload materials promptly and remind speakers to submit by August 10–12.
+- **Permissions**: Only managers can upload by default; use **Roles** to delegate to speakers.
+- **Edits**: Materials can be updated or deleted anytime via the **Materials** tab using the **Edit** option.
 
 ---
 
-
-### Key Changes
-1. **Step 1**: Added a prerequisite to ensure contributions exist and clarified Timetable navigation.
-2. **Step 2**: Corrected "Files" to "Materials," updated "Upload files" to "Add material," and changed "Upload" to "Save/Add."
-3. **Step 3**: Added a "Save" step and clarified the "Manage materials" action.
-4. **Step 4**: Added permission testing and a note to verify the URL.
-5. **Notes**: Added file size guidance, time sensitivity, and a role management tip.
-
-This revised guide is now accurate and comprehensive for Indico v3.3.7. Let me know if you’d like to proceed with the next part or need further assistance!
