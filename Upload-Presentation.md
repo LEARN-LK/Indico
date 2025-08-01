@@ -44,13 +44,21 @@ Within the contribution details page
  **Location:**  
 **Management Area → Timetable → Session block**
 
-1. In the **Management Area**, go to **Timetable** and click a **Session Block** (e.g., “AI & Data Science”).
-2. Click **Manage materials** (or the gear icon) to access session-level materials.
-3. Click **Add material**, select the type (e.g., Slides, Video), and upload a file (e.g., session agenda PDF).
-4. Optionally, add a description and set access permissions.
-5. Click **Save** to apply changes.
+1. In the **Management Area**, go to **Timetable [1]** and click a **Session Block** **(e.g., “AI & Data Science” [2]).**
 
->  Session materials will be linked to the session; ensure session blocks are created (e.g., in Part 3: J).
+   <img src="https://github.com/LEARN-LK/Indico/blob/main/img/material-timetable-01.png" width="830">
+   
+2. Click **Manage materials [3]** (or the gear icon) to access session-level materials.
+ 
+   <img src="https://github.com/LEARN-LK/Indico/blob/main/img/material-timetable-02.png" width="830">
+   
+3. Select **Add material for the session**, Click the  **upload a files [4]** button.
+4. Optionally, add a description **[6]** and set access permissions **[7]**.
+
+    <img src="https://github.com/LEARN-LK/Indico/blob/main/img/Material-03.png" width="830">
+4. Click **Save** to apply changes.
+
+>  Session materials will be linked to the session; ensure session blocks are created.
 
 ---
 
