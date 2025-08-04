@@ -1,4 +1,4 @@
-##  **Part 3: L – Customize Certificates and Generate Participation Documents (Indico v3.3.7)**
+##  Customize Certificates and Generate Participation Documents (Indico v3.3.7)
 
 ###  **Step-by-Step Instructions**
 
@@ -60,20 +60,27 @@ You’ll now see several customizable fields. Here's what each field does, with 
 
 1. In the **Management Area**, go to the **Organization** tab.
 
-2. Click **Registration**.
+2. Click **Registration [1]**.
 
-3. Under **List of Registration Forms**, locate and click on **NRC 2025 Participant Registration**.
+3. Under **List of Registration Forms**, locate and click on **NRC 2025 Participant Registration [2]**.
 
-4. Click the **Registrations** link to view the list of registered participants.
+   <img src="https://github.com/LEARN-LK/Indico/blob/main/img/sent-certificate-1.png" width="530">
 
-5. From the **Participants List**, you can:
 
-   *  Select **all participants**
+5. Click the **Registrations [3]** link to view the list of registered participants.
+
+6. From the **Participants List**, you can:
+
+   *  Select **all participants  [4]**
    *  Or select **individual participants** by checking the boxes.
 
-6. Click the **Action** dropdown (usually found above the list or in the toolbar).
+ <img src="https://github.com/LEARN-LK/Indico/blob/main/img/sent-certificate-2.png" width="530">
+ 
+7. Click the **Action** dropdown (usually found above the list or in the toolbar).
 
-7. Choose **Generate Document**.
+8. Choose **Generate Document [5]**.
+
+ <img src="https://github.com/LEARN-LK/Indico/blob/main/img/sent-certificate-3.png" width="530">
 
 ---
 
