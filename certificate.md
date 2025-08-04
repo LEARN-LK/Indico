@@ -11,9 +11,11 @@
 
 1. Go to the event’s **Management Area**.
 2. Click on **Customize** in the left-hand menu.
-3. Select **Documents Template**.
-4. Click **➕ Add New** to create a new document.
-5. Choose **Certificate of Attendance (V1)** from the available options.
+3. Select **Documents Template [1]**.
+4. Click **➕ Add New [2]** to create a new document.
+5. Choose **Certificate of Attendance (V1) [3]** from the available options.
+
+ <img src="https://github.com/LEARN-LK/Indico/blob/main/img/certificate-01.png" width="830">
 
 ---
 
@@ -22,33 +24,24 @@
 You’ll now see several customizable fields. Here's what each field does, with sample content using dynamic parameters.
 
 ####  **You can click “Sample Parameters”** to view the list of dynamic tags you can include. These include:
-
-* `{name}` – Participant's full name
-* `{event_title}` – Title of the event
-* `{start_date}` – Event start date
-* `{end_date}` – Event end date
-* `{affiliation}` – Participant’s organization
-* `{role}` – Role in the event (e.g., Speaker, Attendee)
-* `{category}` – Contribution type (e.g., Poster, Talk)
-* `{track}` – Track name, if applicable
-* `{contribution_title}` – Title of the participant’s presentation (if any)
-
 ---
 
 ### **Customize Each Field (with Examples)**
 
 | Field                        | Description                                     | Example                                                                                                                                    |
 | ---------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Document Title**           | Title displayed on top of the certificate.      | `Certificate of Participation`                                                                                                             |
-| **Organizer Address**        | Name and address of the organizing institution. | `University of Peradeniya, Faculty of Science, Peradeniya, Sri Lanka`                                                                      |
-| **Venue**                    | Physical or virtual venue.                      | `University Senate Hall` or `Zoom Platform (Online)`                                                                                       |
-| **Logo**                     | Upload a logo image.                            | *(Click “Upload Logo” and choose your image)*                                                                                              |
-| **Certificate Text**         | Main certificate message, using dynamic tags.   | `This is to certify that {name} from {affiliation} has participated in the {event_title} held from {start_date} to {end_date} at {venue}.` |
-| **Place of Signature (1st)** | Name and title of signatory 1.                  | `Dr. S.K. Perera\nChairperson – NRC 2025`                                                                                                  |
+| **Document Title [1]**           | Title displayed on top of the certificate.      | `Certificate of Participation`                                                                                                             |
+| **Organizer Address [2]**        | Name and address of the organizing institution. | `University of Peradeniya, Faculty of Science, Peradeniya, Sri Lanka`                                                                      |
+| **Venue [3]**                    | Physical or virtual venue.                      | `University Senate Hall` or `Zoom Platform (Online)`                                                                                       |
+| **Logo [4]**                     | Upload a logo image.                            | *(Click “Upload Logo” and choose your image)*                                                                                              |
+| **Certificate Text [5]**         | Main certificate message, using dynamic tags.   | `This is to certify that {name} from {affiliation} has participated in the {event_title} held from {start_date} to {end_date} at {venue}.` |
+| **Place of Signature (1st) [6]** | Name and title of signatory 1.                  | `Dr. S.K. Perera\nChairperson – NRC 2025`                                                                                                  |
 | **Place of Signature (2nd)** | Name and title of signatory 2.                  | `Prof. N. Jayasena\nDean – Faculty of Science`                                                                                             |
 | **Place of Signature (3rd)** | (Optional) Name and title of a third signatory. | `Mr. R. Gunasekara\nConference Secretary`                                                                                                  |
 
 ---
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/certificatipn-03.png" width="530">
+
 
 ### **Step 3: Save the Template**
 
@@ -57,35 +50,61 @@ You’ll now see several customizable fields. Here's what each field does, with 
 
 ---
 
-### **Step 4: Generate Certificates for Participants**
+
+##  **Step 4: Generate Certificates for Participants**
 
  **Location:**
-**Management Area → Participants → Registration → Generate Documents**
-
-1. Navigate to **Participants** → **Registration**.
-2. Use checkboxes or filters (e.g., attendance status) to select the participants.
-3. Click **Generate Documents**.
-4. Choose your saved certificate template.
-5. Click **Generate PDFs** and download them.
+**Management Area → Organization → Registration → NRC 2025 Participant Registration → Registrations List**
 
 ---
 
-### **Step 5 (Optional): Email the Certificates**
+1. In the **Management Area**, go to the **Organization** tab.
 
-After generating:
+2. Click **Registration**.
 
-* Use the **Email** option (if enabled) to send certificates as attachments to each participant automatically.
+3. Under **List of Registration Forms**, locate and click on **NRC 2025 Participant Registration**.
+
+4. Click the **Registrations** link to view the list of registered participants.
+
+5. From the **Participants List**, you can:
+
+   *  Select **all participants**
+   *  Or select **individual participants** by checking the boxes.
+
+6. Click the **Action** dropdown (usually found above the list or in the toolbar).
+
+7. Choose **Generate Document**.
 
 ---
 
-### 🧾 **Final Certificate Text Example (with Parameters)**
+###  **Document Generation Window**
 
-```
-This is to certify that {name} ({affiliation}) has actively participated as a {role} in the National Research Conference 2025, held at {venue} from {start_date} to {end_date}.
+A popup window will appear. Now fill in the following fields:
 
-We appreciate their valuable contribution and presence at this event.
-```
+| Field                            | Description                                  | Example                                                                                                                         |
+| -------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Document Template**            | Select the saved certificate template.       | `Certificate of Attendance – NRC 2025`                                                                                          |
+| **Document Title**               | Title shown on the document.                 | `Certificate of Participation`                                                                                                  |
+| **Organizer Address**            | Address of the organizing body.              | `LEARN, 65/5, Galle Road, Colombo 03, Sri Lanka`                                                                                |
+| **Venue**                        | Event location.                              | `Zoom Online Platform` or `University Senate Hall`                                                                              |
+| **Logo**                         | Upload your organization or conference logo. | *(Click Upload and select file)*                                                                                                |
+| **Certificate Text**             | Use dynamic fields for personalization.      | `This certifies that {name} from {affiliation} participated in {event_title}, held from {start_date} to {end_date} at {venue}.` |
+| **Place of Signature (1st–3rd)** | Names and titles of signatories.             | `Dr. S.K. Perera\nConference Chair`                                                                                             |
 
 ---
 
-Would you like help generating a PDF preview layout for testing, or writing Sinhala/English bilingual certificate text?
+###  **Tick the Following Options**
+
+*  **Remember settings** (for future use)
+*  **Publish document** (makes it available for participants to download)
+*  **Notify registrants via e-mail** (sends the document directly to participant emails)
+
+---
+
+###  **Finalize**
+
+Click the **Publish and Send to Registrants** button.
+
+>  Participants will now receive their customized certificates via email, and they can also download them from their registration page.
+
+---
