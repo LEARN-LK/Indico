@@ -1,87 +1,91 @@
-
-
 ##  **Part 3: L – Customize Certificates and Generate Participation Documents (Indico v3.3.7)**
 
-This section guides you on how to design and generate **attendance certificates** using the **Document Template** feature in Indico v3.3.7.
+###  **Step-by-Step Instructions**
 
 ---
 
-### 🔧 **Step-by-Step Instructions**
+### **Step 1: Access the Certificate Generator**
 
----
-
-### **Step 1: Access the Certificate Template Tool**
-
-📍 **Location:**
+ **Navigation Path:**
 **Management Area → Customize → Documents Template**
 
-1. Go to your event’s **Management Area**.
-2. Click **Customize** in the left-side menu.
+1. Go to the event’s **Management Area**.
+2. Click on **Customize** in the left-hand menu.
 3. Select **Documents Template**.
-4. You’ll see a list of any **available templates** already created.
-5. Click **➕ Add New** to create a new template.
+4. Click **➕ Add New** to create a new document.
+5. Choose **Certificate of Attendance (V1)** from the available options.
 
 ---
 
-### **Step 2: Select Certificate Template Type**
+### **Step 2: Customize the Template**
 
-1. After clicking **Add New**, you'll see different template types.
-2. Choose **"Certificate of Attendance (V1)"**.
-3. This opens the **Certificate Template Designer View**.
+You’ll now see several customizable fields. Here's what each field does, with sample content using dynamic parameters.
 
----
+####  **You can click “Sample Parameters”** to view the list of dynamic tags you can include. These include:
 
-### **Step 3: Customize Certificate Content**
-
-In the template editor, you'll see various input fields to personalize your certificate:
-
-| Field                  | Description                                                                                                                                                |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Document Title**     | The main heading of your certificate (e.g., "Certificate of Participation").                                                                               |
-| **Organizer Address**  | The name or address of the organizing institution.                                                                                                         |
-| **Venue**              | The event location (can be physical or online).                                                                                                            |
-| **Logo**               | Upload your institutional or event logo.                                                                                                                   |
-| **Certificate Text**   | The main body of the certificate (e.g., *"This is to certify that {name} participated in the National Research Conference 2025 held on August 20, 2025."*) |
-| **Place of Signature** | Fields to input names, titles, and positions of one or more signatories (up to 3).                                                                         |
-
-> 🧩 Click the **"Sample Parameters"** button to see what dynamic placeholders are available (e.g., `{name}`, `{event_title}`, `{start_date}`, `{role}`, etc.).
+* `{name}` – Participant's full name
+* `{event_title}` – Title of the event
+* `{start_date}` – Event start date
+* `{end_date}` – Event end date
+* `{affiliation}` – Participant’s organization
+* `{role}` – Role in the event (e.g., Speaker, Attendee)
+* `{category}` – Contribution type (e.g., Poster, Talk)
+* `{track}` – Track name, if applicable
+* `{contribution_title}` – Title of the participant’s presentation (if any)
 
 ---
 
-### **Step 4: Save and Apply the Template**
+### **Customize Each Field (with Examples)**
 
-1. After customization, click **Save**.
-2. You can **preview** how the certificate looks for a sample participant.
-3. Return to the **Documents Template** list and make sure your certificate is marked **Active**.
+| Field                        | Description                                     | Example                                                                                                                                    |
+| ---------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Document Title**           | Title displayed on top of the certificate.      | `Certificate of Participation`                                                                                                             |
+| **Organizer Address**        | Name and address of the organizing institution. | `University of Peradeniya, Faculty of Science, Peradeniya, Sri Lanka`                                                                      |
+| **Venue**                    | Physical or virtual venue.                      | `University Senate Hall` or `Zoom Platform (Online)`                                                                                       |
+| **Logo**                     | Upload a logo image.                            | *(Click “Upload Logo” and choose your image)*                                                                                              |
+| **Certificate Text**         | Main certificate message, using dynamic tags.   | `This is to certify that {name} from {affiliation} has participated in the {event_title} held from {start_date} to {end_date} at {venue}.` |
+| **Place of Signature (1st)** | Name and title of signatory 1.                  | `Dr. S.K. Perera\nChairperson – NRC 2025`                                                                                                  |
+| **Place of Signature (2nd)** | Name and title of signatory 2.                  | `Prof. N. Jayasena\nDean – Faculty of Science`                                                                                             |
+| **Place of Signature (3rd)** | (Optional) Name and title of a third signatory. | `Mr. R. Gunasekara\nConference Secretary`                                                                                                  |
 
 ---
 
-### **Step 5: Generate and Download Certificates**
+### **Step 3: Save the Template**
 
-📍 **Location:**
+* Click **Save** after completing the fields.
+* Optionally, use the **Preview** feature to check how the certificate looks with real sample data.
+
+---
+
+### **Step 4: Generate Certificates for Participants**
+
+ **Location:**
 **Management Area → Participants → Registration → Generate Documents**
 
-1. Go to the **Participants** section.
-2. Choose **Registration** from the dropdown.
-3. Use filters to select which participants should receive certificates (e.g., only those marked as attended).
-4. Click **Generate Documents**.
-5. Select your customized certificate template.
-6. Generate and **download PDFs** for all selected participants.
+1. Navigate to **Participants** → **Registration**.
+2. Use checkboxes or filters (e.g., attendance status) to select the participants.
+3. Click **Generate Documents**.
+4. Choose your saved certificate template.
+5. Click **Generate PDFs** and download them.
 
 ---
 
-### **Step 6 (Optional): Email Certificates**
+### **Step 5 (Optional): Email the Certificates**
 
-* After generating, you may use the **email option** (if enabled) to send certificates directly to each participant with the document as a PDF attachment.
+After generating:
+
+* Use the **Email** option (if enabled) to send certificates as attachments to each participant automatically.
 
 ---
 
-### 📝 Example Certificate Text:
+### 🧾 **Final Certificate Text Example (with Parameters)**
 
-```text
-This is to certify that {name} has participated in the National Research Conference 2025, held at the University of Peradeniya from {start_date} to {end_date}.
+```
+This is to certify that {name} ({affiliation}) has actively participated as a {role} in the National Research Conference 2025, held at {venue} from {start_date} to {end_date}.
+
+We appreciate their valuable contribution and presence at this event.
 ```
 
 ---
 
-Would you like me to help you prepare a sample certificate layout or placeholder text for your event?
+Would you like help generating a PDF preview layout for testing, or writing Sinhala/English bilingual certificate text?
