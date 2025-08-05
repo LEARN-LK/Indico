@@ -91,26 +91,26 @@ A popup window will appear. Now fill in the following fields:
 | Field                            | Description                                  | Example                                                                                                                         |
 | -------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | **Document Template**            | Select the saved certificate template.       | `Certificate of Attendance – NRC 2025`                                                                                          |
-| **Document Title**               | Title shown on the document.                 | `Certificate of Participation`                                                                                                  |
-| **Organizer Address**            | Address of the organizing body.              | `LEARN, 65/5, Galle Road, Colombo 03, Sri Lanka`                                                                                |
-| **Venue**                        | Event location.                              | `Zoom Online Platform` or `University Senate Hall`                                                                              |
-| **Logo**                         | Upload your organization or conference logo. | *(Click Upload and select file)*                                                                                                |
-| **Certificate Text**             | Use dynamic fields for personalization.      | `This certifies that {name} from {affiliation} participated in {event_title}, held from {start_date} to {end_date} at {venue}.` |
-| **Place of Signature (1st–3rd)** | Names and titles of signatories.             | `Dr. S.K. Perera\nConference Chair`                                                                                             |
+| **Document Title [6]**               | Title shown on the document.                 | `Certificate of Participation`                                                                                                  |
+| **Organizer Address [7]**            | Address of the organizing body.              | `LEARN, 65/5, Galle Road, Colombo 03, Sri Lanka`                                                                                |
+| **Venue [8]**                        | Event location.                              | `Zoom Online Platform` or `University Senate Hall`                                                                              |
+| **Logo [9]**                         | Upload your organization or conference logo. | *(Click Upload and select file)*                                                                                                |
+| **Certificate Text [10]**             | Use dynamic fields for personalization.      | `This certifies that {name} from {affiliation} participated in {event_title}, held from {start_date} to {end_date} at {venue}.` |
+| **Place of Signature (1st–3rd) [11]** | Names and titles of signatories.             | `Dr. S.K. Perera\nConference Chair`                                                                                             |
 
 ---
 
 ###  **Tick the Following Options**
 
-*  **Remember settings** (for future use)
-*  **Publish document** (makes it available for participants to download)
-*  **Notify registrants via e-mail** (sends the document directly to participant emails)
+*  **Remember settings [12]** (for future use)
+*  **Publish document [13]** (makes it available for participants to download)
+*  **Notify registrants via e-mail [14]** (sends the document directly to participant emails)
 
 ---
 
 ###  **Finalize**
 
-Click the **Publish and Send to Registrants** button.
+Click the **Publish and Send to Registrants [15]** button.
 
 >  Participants will now receive their customized certificates via email, and they can also download them from their registration page.
 
