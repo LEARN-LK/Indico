@@ -1,4 +1,4 @@
-##  Customize Certificates and Generate Participation Documents (Indico v3.3.7)
+##  J: Customize Certificates and Generate Participation Documents (Indico v3.3.7)
 
 ###  **Step-by-Step Instructions**
 
