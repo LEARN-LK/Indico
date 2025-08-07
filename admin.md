@@ -1,66 +1,89 @@
 
-## B Category Creation and Manager Assignment
+## B. Category Creation and Manager Assignment
 
 (*Performed by LEARN Indico Admin*)
 
 ###  Purpose:
 
-To organize conferences by university or institute, the LEARN Indico admin first creates a category (e.g., “University of Peradeniya”), then assigns a local organizer or university representative as the **Category Manager**.
+To organize conferences by university and faculty/department structure, the LEARN Indico Admin creates a hierarchy of categories and assigns local organizers or university representatives as **Category Managers** at the department level.
 
 ---
 
-### 🛠 Step-by-Step Instructions
+###  Step-by-Step Instructions
 
-#### Step 1: Create a Category (e.g., for University)
+#### Step 1: Create the Top-Level University Category
 
-1. Go to the **Indico homepage** (`https://events.learn.ac.lk`)
-2. Click the **pencil icon** [1] (top-right corner) to enter the **Category Management area**.
-<img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-01.png" width="730">
-   
-3. Navigate to the relevant parent category (or the homepage for a top-level category).
-4. Click the **➕ Create subcategory [2]** button.
-<img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-06.png" width="730">
-   
-5. Fill in:
+1. Visit the **Indico homepage**: `https://events.learn.ac.lk`
 
-   * **Title [3]**: e.g., `University of Peradeniya`
-   * **Description [4]** (optional): e.g., “Official category for events organized by University of Peradeniya”
-<img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-02.png" width="730">
-     
-6. Click **Save [5]**.
+2. Click the ** pencil icon** (top-right) to access the **Category Management** area. <img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-01.png" width="730">
+
+3. On the homepage or relevant parent category, click **➕ Create subcategory**. <img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-06.png" width="730">
+
+4. Fill in the form:
+
+   * **Title**: `University of Peradeniya`
+   * **Description**: "Official category for events organized by University of Peradeniya"
+
+     <img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-02.png" width="730">
+
+5. Click **Save**.
 
 ---
 
-#### Step 2: Assign a Category Manager
+#### Step 2: Create Faculty and Department Subcategories
 
-1. In the **newly created category** (e.g., `University of Peradeniya`), click the ** gear icon** in the top-right.
-2. From the left sidebar, click **Protection [6]**.
-<img src="https://github.com/LEARN-LK/Indico/blob/main/img/Category-03.png" width="730">
- 
-3. Under **Category protection > Permission** , click **Add User [7.0]**.
-<img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-07.png" width="430">
+1. Inside the **University of Peradeniya** category, again click **➕ Create subcategory**.
 
-4. Search for the user (e.g., `Dr. Silva`) by name  **[7]** or email (they must have an Indico account).
-<img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-04.png" width="730">
+2. Enter:
 
-   
-5. Select the user and assign as **Manager [10]**.
-<img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-05.png" width="330">
-   
+   * **Title**: `Faculty of Computing`
+   * **Description**: e.g., “Events under Faculty of Computing”
+
+3. Click **Save**.
+
+4. Now within the **Faculty of Computing**, click **➕ Create subcategory** again.
+
+5. Enter:
+
+   * **Title**: `Department of Computer Science`
+   * **Description**: “Events and workshops organized by the Department of Computer Science”
+
 6. Click **Save**.
 
 ---
 
-###  Example Scenario
+#### Step 3: Assign a Category Manager (e.g., for Department of Computer Science)
 
-* LEARN Indico Admin creates a new category: **University of Peradeniya**.
-* Then they assign **Dr. Silva (UoP IT Coordinator)** as the **Category Manager**.
-* Now, Dr. Silva can:
+1. Navigate to **Department of Computer Science** category.
 
-  * Create and manage events under this category
-  * Set up conference details
-  * Enable abstract submissions, registration, and room bookings
-  * Assign further roles (e.g., editors, reviewers)
+2. Click the **⚙️ gear icon** (top-right).
+
+3. In the sidebar, go to **Protection**. <img src="https://github.com/LEARN-LK/Indico/blob/main/img/Category-03.png" width="730">
+
+4. Under **Category Protection > Permissions**, click **Add User**. <img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-07.png" width="430">
+
+5. Search by name or email (e.g., `Dr. Silva`) – user must have an Indico account. <img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-04.png" width="730">
+
+6. Assign them the role of **Manager**. <img src="https://github.com/LEARN-LK/Indico/blob/main/img/category-05.png" width="330">
+
+7. Click **Save**.
+
+---
+
+###  Updated Example Scenario
+
+* LEARN Indico Admin:
+
+  * Creates top-level category: **University of Peradeniya**
+  * Adds subcategory: **Faculty of Computing**
+  * Adds sub-subcategory: **Department of Computer Science**
+  * Assigns **Dr. Silva** (UoP IT Coordinator) as the **Category Manager** for the Department of Computer Science
+
+* Dr. Silva can now:
+
+  * Create and manage all events under the Department of Computer Science category
+  * Enable abstract submission, registration, and room booking
+  * Assign editors, reviewers, and conference managers
 
 ---
 
