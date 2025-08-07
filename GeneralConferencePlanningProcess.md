@@ -1,17 +1,53 @@
+Thank you! Based on your clarified structure, here is the **revised Scenario** and updated **guide logic** to reflect the three-tier category structure and correct manager assignments.
+
+---
+
+### ✅ Revised Scenario Used in This Guide
+
+The **University of Peradeniya, Faculty of Computing, Department of Computer Science** is planning to host the **National Research Conference 2025** using the **LEARN-hosted Indico platform**.
+
+---
+
+#### 🎯 LEARN (as Indico Site Administrator) will:
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## **Scenario Used in This Guide**
 
-> The **University of Peradeniya** is planning to host the **National Research Conference 2025** using the **LEARN-hosted Indico platform**.
->
-> * LEARN (as Indico site admin) will:
->
->   * Create the top-level category (`University of Peradeniya`)
->   * Assign a Category Manager (`Dr. Silva` from UoP)
->   * Create locations and assign a Location Manager (e.g., `Mr. Kumara`)
-> * The **University of Peradeniya Indico Manager** (`Dr. Silva`) will:
->
->   * Create and manage the conference
->   * Set up the call for abstracts, registrations, room bookings, and other event details
+> The **University of Peradeniya, Faculty of Computing, Department of Computer Science** is planning to host the **National Research Conference 2025** using the LEARN-hosted Indico platform
+
+1. **Create a top-level category**:
+   ➤ `University of Peradeniya`
+
+2. **Create sub-categories** under it:
+
+   * `Faculty of Computing` (under University of Peradeniya)
+   * `Department of Computer Science` (under Faculty of Computing)
+
+3. **Assign a Category Manager** (e.g., **Dr. Silva**) specifically to:
+   ➤ `Department of Computer Science`
+
+4. **Create and configure locations** (e.g., venues or lecture halls)
+
+5. **Assign a Location Manager** (e.g., **Mr. Kumara**) for venue booking management
+
 
 ---
 
