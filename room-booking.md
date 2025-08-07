@@ -184,7 +184,6 @@ Click **Add** to save Dr. Silva's permissions.
 
 * **Required Fields**: All fields marked with (\*) must be completed to add the room.
 * **Permissions**: If Dr. Silva cannot book or manage the room, verify user permissions or consult an Indico admin.
-* **Current Date**: August 07, 2025 — ensure bookings fall within the event window (8–13 Sep 2025).
 * **Troubleshooting**:
 
   * Room not showing? Check if the location is active.
@@ -192,45 +191,7 @@ Click **Add** to save Dr. Silva's permissions.
 
 ---
 
-✅Once complete, this setup ensures that the **Main Auditorium** room is properly added, visible for booking, and managed by the designated conference manager.
-
-Let me know if you want this turned into a **PDF**, **shared template**, or part of a larger **conference setup guide**.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!--
 
 ###  6. Book a Room
 
@@ -281,3 +242,4 @@ This allows participants to see room allocations directly from the event schedul
   * If the booking interface doesn’t work, check browser compatibility or reload the page.
 
 ---
+-->
