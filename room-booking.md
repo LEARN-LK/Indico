@@ -1,67 +1,109 @@
+#  Steps to Use Room Booking for “National Research Conference 2025”
 
-##  **Steps to Use Room Booking in a Conference (National Research Conference 2025)**
-
-###  **Step 1: Ensure Room Booking Plugin is Enabled**
-
-(Performed by LEARN Indico Site Administrator)
-
-* Go to: **Admin area** → **Plugins**
-* Make sure **Room Booking** is enabled.
-* Also, ensure the **EventRoomBooking** plugin is enabled (lets you link room bookings to events).
+> This guide outlines how to set up and manage room bookings for the **National Research Conference 2025**, including how to add a location, assign permissions to a location manager (e.g., Dr. Silva), book a room, and optionally link it to the event timetable.
 
 ---
 
-###  **Step 2: Create Locations and Rooms**
+###  1. Navigate to the Event
 
-(Performed by LEARN Indico Site Administrator)
-
-* Go to: **Room Booking** → **Administration** → **Locations**
-* Add a new location (e.g., *Faculty of Computing Building*)
-* Add individual rooms/halls (e.g., *Auditorium, Lab 1, Seminar Room A*) under that location
-* Assign a **Location Manager** (e.g., Mr. Kumara)
+* Log in to your Indico instance.
+* From the homepage or dashboard, find and select the event:
+  **National Research Conference 2025**
 
 ---
 
-### 👤 **Step 3: Assign Booking Permission to Event Manager**
+###  2. Access the Room Booking Section
 
-(Performed by LEARN Admin)
-
-* Go to: **Room Booking** → **Permissions**
-* Grant **Event Room Booking** rights to **Dr. Silva** (conference manager)
+1. On the event page, click the **gear icon** or **“Manage event”** to open the **Management Area**.
+2. In the left sidebar, scroll down and click **Room bookings**.
+3. You’ll see the **Room bookings** tab with options. Click **“Book a room”** to open the Room Booking Dashboard.
 
 ---
 
-### 📅 **Step 4: Link Room Booking to the Event**
+###  3. Open the Room Booking Dashboard
 
-(Performed by Dr. Silva – Department of Computer Science)
+* Once inside the Room Booking interface, click the **Administration** tab in the right-hand sidebar to configure room booking settings.
 
-1. Navigate to the event:
-   `University of Peradeniya > Faculty of Computing > Department of Computer Science > National Research Conference 2025`
-2. In the left menu, go to **Room Booking**
-3. Click **Book a Room**
-4. Choose:
+---
 
-   * **Location** (e.g., Faculty of Computing Building)
-   * **Room** (e.g., Auditorium)
-   * **Date and Time** of the session
-   * Optionally set **repeat bookings** if sessions run across multiple days
+### 4. Add a New Location
+
+1. In the left sidebar under **General Settings**, click **Locations**.
+2. Click the **➕ Add** button in the top-right.
+3. In the **Add Location** popup, fill in the details:
+
+   * **Name**: `Auditorium`
+   * **Room name format**: e.g., `{building}/{floor}-{number}`
+     (e.g., `Auditorium/1-001`)
+   * **Map URL template** *(optional)*: e.g.,
+     `https://maps.example.com?room={building}/{floor}-{number}`
+4. Click **Add** to create the location.
+
+---
+
+###  5. Assign a Location Manager (e.g., Dr. Silva)
+
+1. From the Room Booking dashboard, go to:
+   **Room Booking → Permissions**
+2. Click the **+** button under **User** or **Group**.
+3. Search for **Dr. Silva** (Conference Manager).
+4. Grant Dr. Silva the following rights:
+
+   * ✅ **Can manage bookings**
+   * ✅ **Room manager** *(if required for location approval)*
+5. Click **Add** to apply the permissions.
+
+---
+
+### 🔹 6. Book a Room
+
+1. From the Room Booking interface:
+
+   * Select the newly added **Location** (e.g., `Auditorium`)
+   * Set the **Date Range**: `8 Sep – 13 Sep 2025`
+   * Set the **Time Range**: e.g., `09:00 – 17:00`
+   * Filter by capacity or equipment if needed.
+2. Click **Search** to view available rooms.
+3. Click **Book** next to the room (e.g., `Auditorium/1-001`)
+4. Fill in the booking form:
+
+   * **Reason**: e.g., *“Conference Session”*
+   * Confirm or adjust the selected time/location
 5. Click **Submit**
 
----
-
-### 📋 **Step 5: View or Modify Booked Rooms**
-
-* All booked rooms will appear under the **Room Booking** tab of the event
-* Dr. Silva can modify or cancel as needed
+> If room booking moderation is enabled, Dr. Silva will need to approve the request via **Bookings in My Rooms**.
 
 ---
 
-### 🔄 Optional: Synchronize with Event Timetable
+### 🔹 7. Manage and Verify Bookings
 
-* After room booking, Dr. Silva can align the booked room info with **Timetable sessions**
-* Go to: **Timetable** → Edit a session → Set “Location” to the booked room
+* View bookings under **My Bookings** in the sidebar.
+* Dr. Silva (or other managers) can review all requests in **Bookings in My Rooms**.
+* Edit or cancel bookings as needed.
 
 ---
 
-Let me know if you need me to **generate screenshots**, add this to your full guide, or **export it as a Word/PDF document**.
+### 🔹 8. Link Room to Timetable (Optional)
 
+1. Go to the event’s **Management Area → Timetable**
+2. Click **Add new session** or edit an existing one.
+3. Assign the booked room (e.g., `Auditorium/1-001`) to the session.
+4. Save your changes.
+
+This allows participants to see room allocations directly from the event schedule.
+
+---
+
+## 🔍 Notes
+
+* 🔐 **Permissions**: You must be an Indico admin or have appropriate rights to access Room Booking administration features.
+* 📅 **Current Date**: August 07, 2025 — ensure bookings fall within the event range (8–13 September 2025).
+* 🛑 **Moderation**: If enabled, location managers must approve bookings manually.
+* 🛠 **Troubleshooting**:
+
+  * If you can’t add locations or assign permissions, contact your Indico admin.
+  * If the booking interface doesn’t work, check browser compatibility or reload the page.
+
+---
+
+Let me know if you’d like this turned into a PDF or integrated into your full event management guide.
