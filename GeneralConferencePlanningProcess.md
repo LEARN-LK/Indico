@@ -1,20 +1,3 @@
-Thank you! Based on your clarified structure, here is the **revised Scenario** and updated **guide logic** to reflect the three-tier category structure and correct manager assignments.
-
----
-
-### ✅ Revised Scenario Used in This Guide
-
-The **University of Peradeniya, Faculty of Computing, Department of Computer Science** is planning to host the **National Research Conference 2025** using the **LEARN-hosted Indico platform**.
-
----
-
-#### 🎯 LEARN (as Indico Site Administrator) will:
-
-
----
-
-
-
 
 ## **Scenario Used in This Guide**
 
@@ -58,7 +41,7 @@ The **University of Peradeniya, Faculty of Computing, Department of Computer Sci
 
 ## **Part 2: Mapping the Planning Process to Indico**
 
-| 📝 Real-life Task                | 🛠️ How It's Done in Indico                                                                   |
+|  Real-life Task                | 🛠️ How It's Done in Indico                                                                   |
 | -------------------------------- | --------------------------------------------------------------------------------------------- |
 | Create category per institution  | LEARN Admin creates category: `University of Peradeniya`                                      |
 | Map academic units               | LEARN Admin creates sub-categories: `Faculty of Computing` → `Department of Computer Science` |
