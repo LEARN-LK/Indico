@@ -16,26 +16,35 @@
 
 1. On the event page, click the **gear icon** or **“Manage event”** to open the **Management Area**.
 2. In the left sidebar, scroll down and click **Room bookings**.
-3. You’ll see the **Room bookings** tab with options. Click **“Book a room”** to open the Room Booking Dashboard.
+3. You’ll see the **Room bookings [1]** tab with options. Click **“Book a room” [2]** to open the Room Booking Dashboard.
+
+   <img src="https://github.com/LEARN-LK/Indico/blob/main/img/roombooking-1.png" width="60%">
+
 
 ---
 
 ###  3. Open the Room Booking Dashboard
 
-* Once inside the Room Booking interface, click the **Administration** tab in the right-hand sidebar to configure room booking settings.
+* Once inside the Room Booking interface, click the **Administration [3]** tab in the right-hand sidebar to configure room booking settings.
 
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/roombookin-2.png" width="60%">
 ---
 
 ### 4. Add a New Location
 
-1. In the left sidebar under **General Settings**, click **Locations**.
-2. Click the **➕ Add** button in the top-right.
+1. In the left sidebar under **General Settings**, click **Locations [4]**.
+
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/roombooking-3.png" width="60%">
+
+2. Click the  **➕ Add [5]** button in the top-right.
 3. In the **Add Location** popup, fill in the details:
 
-   * **Name**: `Auditorium`
-   * **Room name format**: e.g., `{building}/{floor}-{number}`
+<img src="https://github.com/LEARN-LK/Indico/blob/main/img/roombooking-4.png" width="60%">
+
+   * **Name [6]**: `Auditorium`
+   * **Room name format [7]**: e.g., `{building}/{floor}-{number}`
      (e.g., `Auditorium/1-001`)
-   * **Map URL template** *(optional)*: e.g.,
+   * **Map URL template [8]** *(optional)*: e.g.,
      `https://maps.example.com?room={building}/{floor}-{number}`
 4. Click **Add** to create the location.
 
@@ -45,17 +54,17 @@
 
 1. From the Room Booking dashboard, go to:
    **Room Booking → Permissions**
-2. Click the **+** button under **User** or **Group**.
+2. Click the **+** button under **User [9]** or **Group**.
 3. Search for **Dr. Silva** (Conference Manager).
 4. Grant Dr. Silva the following rights:
 
-   * ✅ **Can manage bookings**
-   * ✅ **Room manager** *(if required for location approval)*
+   *  **Can manage bookings**
+   *  **Room manager** *(if required for location approval)*
 5. Click **Add** to apply the permissions.
 
 ---
 
-### 🔹 6. Book a Room
+###  6. Book a Room
 
 1. From the Room Booking interface:
 
@@ -75,7 +84,7 @@
 
 ---
 
-### 🔹 7. Manage and Verify Bookings
+###  7. Manage and Verify Bookings
 
 * View bookings under **My Bookings** in the sidebar.
 * Dr. Silva (or other managers) can review all requests in **Bookings in My Rooms**.
@@ -83,7 +92,7 @@
 
 ---
 
-### 🔹 8. Link Room to Timetable (Optional)
+###  8. Link Room to Timetable (Optional)
 
 1. Go to the event’s **Management Area → Timetable**
 2. Click **Add new session** or edit an existing one.
@@ -94,16 +103,13 @@ This allows participants to see room allocations directly from the event schedul
 
 ---
 
-## 🔍 Notes
+##  Notes
 
-* 🔐 **Permissions**: You must be an Indico admin or have appropriate rights to access Room Booking administration features.
-* 📅 **Current Date**: August 07, 2025 — ensure bookings fall within the event range (8–13 September 2025).
-* 🛑 **Moderation**: If enabled, location managers must approve bookings manually.
-* 🛠 **Troubleshooting**:
+*  **Permissions**: You must be an Indico admin or have appropriate rights to access Room Booking administration features.
+*  **Moderation**: If enabled, location managers must approve bookings manually.
+*  **Troubleshooting**:
 
   * If you can’t add locations or assign permissions, contact your Indico admin.
   * If the booking interface doesn’t work, check browser compatibility or reload the page.
 
 ---
-
-Let me know if you’d like this turned into a PDF or integrated into your full event management guide.
