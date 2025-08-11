@@ -5,7 +5,7 @@
 
 ###  Purpose:
 
-To organize conferences by university and faculty/department structure, the LEARN Indico Admin creates a hierarchy of categories and assigns local organizers or university representatives as **Category Managers** at the department level.
+To organize conferences by university and faculty/department structure, the LEARN Indico Admin creates a hierarchy of categories and assigns local organizers or university representatives as **Category Managers** at the department level. Additionally, a **Location Manager** is assigned to oversee room booking and management within the category.
 
 ---
 
@@ -70,20 +70,40 @@ To organize conferences by university and faculty/department structure, the LEAR
 
 ---
 
-###  Updated Example Scenario
 
-* LEARN Indico Admin:
+#### Step 4: Assign a Location Manager (e.g., for Department of Computer Science)
 
-  * Creates top-level category: **University of Peradeniya**
-  * Adds subcategory: **Faculty of Computing**
-  * Adds sub-subcategory: **Department of Computer Science**
-  * Assigns **Dr. Silva** (UoP IT Coordinator) as the **Category Manager** for the Department of Computer Science
+1. Navigate to the **Department of Computer Science** category.
+2. Click the **⚙️ gear icon** (top-right) to access category settings.
+3. In the sidebar, go to **Room Booking** (if available) or return to the event management area and access **Room Booking → Permissions** under the category context.
+4. Under **Permissions** or **Room Booking Permissions**, click **Add User**.
+5. Search for a user (e.g., `Mohan Bandara`) – ensure they have an Indico account.
+6. Assign the role of **Location Manager** with the following permissions:
+   - **Manage**: Full control over room settings and bookings.
+   - **Moderate**: Ability to approve or reject room booking requests.
+   - **Override**: Permission to override existing bookings if needed.
+7. Click **Save** to apply the changes.
+8. Verify the assignment by checking the **Room Booking** dashboard, where Mohan Bandara should now manage rooms like "Main Auditorium" under the category.
 
-* Dr. Silva can now:
-
-  * Create and manage all events under the Department of Computer Science category
-  * Enable abstract submission, registration, and room booking
-  * Assign editors, reviewers, and conference managers
 
 ---
 
+
+### Updated Example Scenario
+
+- **LEARN Indico Admin**:
+  - Creates top-level category: **University of Peradeniya**
+  - Adds subcategory: **Faculty of Computing**
+  - Adds sub-subcategory: **Department of Computer Science**
+  - Assigns **Dr. Silva** (UoP IT Coordinator) as the **Category Manager** for the Department of Computer Science.
+  - Assigns **Mohan Bandara** as the **Location Manager** for room booking within the Department of Computer Science.
+
+- **Dr. Silva can now**:
+  - Create and manage all events under the Department of Computer Science category.
+  - Enable abstract submission, registration, and room booking.
+  - Assign editors, reviewers, and conference managers.
+
+- **Mohan Bandara can now**:
+  - Manage room bookings (e.g., "Main Auditorium") for events under the Department of Computer Science.
+  - Approve or reject booking requests and resolve conflicts using override permissions.
+  - Ensure room availability aligns with the conference schedule (8 Sep - 13 Sep 2025).
